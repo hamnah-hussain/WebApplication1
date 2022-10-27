@@ -1,0 +1,6267 @@
+[
+    {
+        "Navn": "Hypertensive disease",
+        "Symptomer": [
+            {
+                "Navn": "Pain chest"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Dizziness"
+            },
+            {
+                "Navn": "Asthenia"
+            },
+            {
+                "Navn": "Fall"
+            },
+            {
+                "Navn": "Syncope"
+            },
+            {
+                "Navn": "Vertigo"
+            },
+            {
+                "Navn": "Sweat"
+            },
+            {
+                "Navn": "Palpitation"
+            },
+            {
+                "Navn": "Nausea"
+            },
+            {
+                "Navn": "Angina pectoris"
+            },
+            {
+                "Navn": "Pressure chest"
+            }
+        ]
+    },
+    {
+        "Navn": "Diabetes",
+        "Symptomer": [
+            {
+                "Navn": "Polyuria"
+            },
+            {
+                "Navn": "Polydypsia"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Pain chest"
+            },
+            {
+                "Navn": "Asthenia"
+            },
+            {
+                "Navn": "Nausea"
+            },
+            {
+                "Navn": "Orthopnea"
+            },
+            {
+                "Navn": "Rale"
+            },
+            {
+                "Navn": "Sweat"
+            },
+            {
+                "Navn": "Unresponsiveness"
+            },
+            {
+                "Navn": "Mental status changes"
+            },
+            {
+                "Navn": "Vertigo"
+            },
+            {
+                "Navn": "Vomiting"
+            },
+            {
+                "Navn": "Labored breathing"
+            }
+        ]
+    },
+    {
+        "Navn": "Depression mental",
+        "Symptomer": [
+            {
+                "Navn": "Feeling suicidal"
+            },
+            {
+                "Navn": "Suicidal"
+            },
+            {
+                "Navn": "Hallucinations auditory"
+            },
+            {
+                "Navn": "Feeling hopeless"
+            },
+            {
+                "Navn": "Weepiness"
+            },
+            {
+                "Navn": "Sleeplessness"
+            },
+            {
+                "Navn": "Motor retardation"
+            },
+            {
+                "Navn": "Irritable mood"
+            },
+            {
+                "Navn": "Blackout"
+            },
+            {
+                "Navn": "Mood depressed"
+            },
+            {
+                "Navn": "Hallucinations visual"
+            },
+            {
+                "Navn": "Worry"
+            },
+            {
+                "Navn": "Agitation"
+            },
+            {
+                "Navn": "Tremor"
+            },
+            {
+                "Navn": "Intoxication"
+            },
+            {
+                "Navn": "Verbal auditory hallucinations"
+            },
+            {
+                "Navn": "Energy increased"
+            },
+            {
+                "Navn": "Difficulty"
+            },
+            {
+                "Navn": "Nightmare"
+            },
+            {
+                "Navn": "Unable to concentrate"
+            },
+            {
+                "Navn": "Homelessness"
+            }
+        ]
+    },
+    {
+        "Navn": "Coronary arteriosclerosis",
+        "Symptomer": [
+            {
+                "Navn": "Pain chest"
+            },
+            {
+                "Navn": "Angina pectoris"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Hypokinesia"
+            },
+            {
+                "Navn": "Sweat"
+            },
+            {
+                "Navn": "Pressure chest"
+            },
+            {
+                "Navn": "Dyspnea on exertion"
+            },
+            {
+                "Navn": "Orthopnea"
+            },
+            {
+                "Navn": "Chest tightness"
+            }
+        ]
+    },
+    {
+        "Navn": "Pneumonia",
+        "Symptomer": [
+            {
+                "Navn": "Cough"
+            },
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Decreased translucency"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Rale"
+            },
+            {
+                "Navn": "Productive cough"
+            },
+            {
+                "Navn": "Pleuritic pain"
+            },
+            {
+                "Navn": "Yellow sputum"
+            },
+            {
+                "Navn": "Breath sounds decreased"
+            },
+            {
+                "Navn": "Chill"
+            },
+            {
+                "Navn": "Rhonchus"
+            },
+            {
+                "Navn": "Green sputum"
+            },
+            {
+                "Navn": "Non-productive cough"
+            },
+            {
+                "Navn": "Wheezing"
+            },
+            {
+                "Navn": "Haemoptysis"
+            },
+            {
+                "Navn": "Distress respiratory"
+            },
+            {
+                "Navn": "Tachypnea"
+            },
+            {
+                "Navn": "Malaise"
+            },
+            {
+                "Navn": "Night sweat"
+            }
+        ]
+    },
+    {
+        "Navn": "Failure heart congestive",
+        "Symptomer": [
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Orthopnea"
+            },
+            {
+                "Navn": "Jugular venous distention"
+            },
+            {
+                "Navn": "Rale"
+            },
+            {
+                "Navn": "Dyspnea"
+            },
+            {
+                "Navn": "Cough"
+            },
+            {
+                "Navn": "Wheezing"
+            }
+        ]
+    },
+    {
+        "Navn": "Accident cerebrovascular",
+        "Symptomer": [
+            {
+                "Navn": "Dysarthria"
+            },
+            {
+                "Navn": "Asthenia"
+            },
+            {
+                "Navn": "Speech slurred"
+            },
+            {
+                "Navn": "Facial paresis"
+            },
+            {
+                "Navn": "Hemiplegia"
+            },
+            {
+                "Navn": "Unresponsiveness"
+            },
+            {
+                "Navn": "Seizure"
+            },
+            {
+                "Navn": "Numbness"
+            }
+        ]
+    },
+    {
+        "Navn": "Asthma",
+        "Symptomer": [
+            {
+                "Navn": "Wheezing"
+            },
+            {
+                "Navn": "Cough"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Chest tightness"
+            },
+            {
+                "Navn": "Non-productive cough"
+            },
+            {
+                "Navn": "Pleuritic pain"
+            },
+            {
+                "Navn": "Productive cough"
+            },
+            {
+                "Navn": "Symptom aggravating factors"
+            },
+            {
+                "Navn": "Distress respiratory"
+            }
+        ]
+    },
+    {
+        "Navn": "Myocardial infarction",
+        "Symptomer": [
+            {
+                "Navn": "Pain chest"
+            },
+            {
+                "Navn": "St segment elevation"
+            },
+            {
+                "Navn": "Sweat"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "St segment depression"
+            },
+            {
+                "Navn": "Hypokinesia"
+            },
+            {
+                "Navn": "Angina pectoris"
+            },
+            {
+                "Navn": "Pressure chest"
+            },
+            {
+                "Navn": "T wave inverted"
+            },
+            {
+                "Navn": "Orthopnea"
+            },
+            {
+                "Navn": "Rale"
+            },
+            {
+                "Navn": "Chest tightness"
+            },
+            {
+                "Navn": "Presence of q wave"
+            },
+            {
+                "Navn": "Palpitation"
+            },
+            {
+                "Navn": "Dyspnea"
+            },
+            {
+                "Navn": "Chest discomfort"
+            },
+            {
+                "Navn": "Bradycardia"
+            },
+            {
+                "Navn": "Syncope"
+            }
+        ]
+    },
+    {
+        "Navn": "Hypercholesterolemia",
+        "Symptomer": [
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Pain chest"
+            },
+            {
+                "Navn": "Sweat"
+            },
+            {
+                "Navn": "Nonsmoker"
+            },
+            {
+                "Navn": "Pressure chest"
+            },
+            {
+                "Navn": "Syncope"
+            },
+            {
+                "Navn": "Numbness"
+            },
+            {
+                "Navn": "Chest discomfort"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "St segment depression"
+            },
+            {
+                "Navn": "Worry"
+            },
+            {
+                "Navn": "T wave inverted"
+            },
+            {
+                "Navn": "Bradycardia"
+            },
+            {
+                "Navn": "Dyspnea"
+            }
+        ]
+    },
+    {
+        "Navn": "Infection",
+        "Symptomer": [
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Erythema"
+            },
+            {
+                "Navn": "Decreased translucency"
+            },
+            {
+                "Navn": "Hepatosplenomegaly"
+            },
+            {
+                "Navn": "Chill"
+            },
+            {
+                "Navn": "Pruritus"
+            },
+            {
+                "Navn": "Diarrhea"
+            },
+            {
+                "Navn": "Abscess bacterial"
+            },
+            {
+                "Navn": "Swelling"
+            },
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Apyrexial"
+            },
+            {
+                "Navn": "Cough"
+            }
+        ]
+    },
+    {
+        "Navn": "Infection urinary tract",
+        "Symptomer": [
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Dysuria"
+            },
+            {
+                "Navn": "Hematuria"
+            },
+            {
+                "Navn": "Renal angle tenderness"
+            },
+            {
+                "Navn": "Lethargy"
+            },
+            {
+                "Navn": "Asthenia"
+            },
+            {
+                "Navn": "Hyponatremia"
+            },
+            {
+                "Navn": "Hemodynamically stable"
+            },
+            {
+                "Navn": "Distress respiratory"
+            },
+            {
+                "Navn": "Difficulty passing urine"
+            },
+            {
+                "Navn": "Mental status changes"
+            },
+            {
+                "Navn": "Consciousness clear"
+            }
+        ]
+    },
+    {
+        "Navn": "Anemia",
+        "Symptomer": [
+            {
+                "Navn": "Chill"
+            },
+            {
+                "Navn": "Guaiac positive"
+            },
+            {
+                "Navn": "Monoclonal"
+            },
+            {
+                "Navn": "Ecchymosis"
+            },
+            {
+                "Navn": "Tumor cell invasion"
+            },
+            {
+                "Navn": "Haemorrhage"
+            },
+            {
+                "Navn": "Pallor"
+            },
+            {
+                "Navn": "Asthenia"
+            },
+            {
+                "Navn": "Fatigue"
+            },
+            {
+                "Navn": "Heme positive"
+            },
+            {
+                "Navn": "Pain back"
+            },
+            {
+                "Navn": "Orthostasis"
+            },
+            {
+                "Navn": "Hyponatremia"
+            },
+            {
+                "Navn": "Dizziness"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Rhonchus"
+            },
+            {
+                "Navn": "Arthralgia"
+            },
+            {
+                "Navn": "Swelling"
+            },
+            {
+                "Navn": "Transaminitis"
+            }
+        ]
+    },
+    {
+        "Navn": "Chronic obstructive airway disease",
+        "Symptomer": [
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Wheezing"
+            },
+            {
+                "Navn": "Cough"
+            },
+            {
+                "Navn": "Dyspnea"
+            },
+            {
+                "Navn": "Distress respiratory"
+            },
+            {
+                "Navn": "Sputum purulent"
+            },
+            {
+                "Navn": "Hypoxemia"
+            },
+            {
+                "Navn": "Hypercapnia"
+            },
+            {
+                "Navn": "Patient non compliance"
+            },
+            {
+                "Navn": "Chest tightness"
+            }
+        ]
+    },
+    {
+        "Navn": "Dementia",
+        "Symptomer": [
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Fall"
+            },
+            {
+                "Navn": "Unresponsiveness"
+            },
+            {
+                "Navn": "Lethargy"
+            },
+            {
+                "Navn": "Agitation"
+            },
+            {
+                "Navn": "Ecchymosis"
+            },
+            {
+                "Navn": "Syncope"
+            },
+            {
+                "Navn": "Rale"
+            },
+            {
+                "Navn": "Unconscious state"
+            },
+            {
+                "Navn": "Cough"
+            },
+            {
+                "Navn": "Bedridden"
+            },
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Facial paresis"
+            },
+            {
+                "Navn": "Abdominal tenderness"
+            },
+            {
+                "Navn": "Rhonchus"
+            },
+            {
+                "Navn": "Unsteady gait"
+            },
+            {
+                "Navn": "Hallucinations auditory"
+            }
+        ]
+    },
+    {
+        "Navn": "Insufficiency renal",
+        "Symptomer": [
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Hyperkalemia"
+            },
+            {
+                "Navn": "Orthopnea"
+            },
+            {
+                "Navn": "Rale"
+            },
+            {
+                "Navn": "Urgency of micturition"
+            },
+            {
+                "Navn": "Ascites"
+            },
+            {
+                "Navn": "Guaiac positive"
+            },
+            {
+                "Navn": "Asthenia"
+            },
+            {
+                "Navn": "Apyrexial"
+            },
+            {
+                "Navn": "Mental status changes"
+            },
+            {
+                "Navn": "Dyspnea"
+            },
+            {
+                "Navn": "Difficulty"
+            },
+            {
+                "Navn": "Diarrhea"
+            },
+            {
+                "Navn": "Hypotension"
+            },
+            {
+                "Navn": "Breath sounds decreased"
+            },
+            {
+                "Navn": "Swelling"
+            },
+            {
+                "Navn": "Hypokinesia"
+            }
+        ]
+    },
+    {
+        "Navn": "Confusion",
+        "Symptomer": [
+            {
+                "Navn": "Seizure"
+            },
+            {
+                "Navn": "Enuresis"
+            },
+            {
+                "Navn": "Lethargy"
+            },
+            {
+                "Navn": "Speech slurred"
+            },
+            {
+                "Navn": "Fall"
+            },
+            {
+                "Navn": "Consciousness clear"
+            },
+            {
+                "Navn": "Mental status changes"
+            },
+            {
+                "Navn": "Asterixis"
+            },
+            {
+                "Navn": "Unconscious state"
+            },
+            {
+                "Navn": "Agitation"
+            },
+            {
+                "Navn": "Muscle twitch"
+            },
+            {
+                "Navn": "Asthenia"
+            },
+            {
+                "Navn": "Sleepy"
+            },
+            {
+                "Navn": "Dizziness"
+            },
+            {
+                "Navn": "Headache"
+            },
+            {
+                "Navn": "Dysarthria"
+            },
+            {
+                "Navn": "Lightheadedness"
+            },
+            {
+                "Navn": "Tremor"
+            },
+            {
+                "Navn": "Hyponatremia"
+            },
+            {
+                "Navn": "Unresponsiveness"
+            }
+        ]
+    },
+    {
+        "Navn": "Degenerative polyarthritis",
+        "Symptomer": [
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Food intolerance"
+            },
+            {
+                "Navn": "Numbness of hand"
+            },
+            {
+                "Navn": "General discomfort"
+            },
+            {
+                "Navn": "Drowsiness"
+            },
+            {
+                "Navn": "Asthenia"
+            },
+            {
+                "Navn": "Nonsmoker"
+            },
+            {
+                "Navn": "Non-productive cough"
+            },
+            {
+                "Navn": "Polydypsia"
+            },
+            {
+                "Navn": "Stiffness"
+            },
+            {
+                "Navn": "Unsteady gait"
+            }
+        ]
+    },
+    {
+        "Navn": "Hypothyroidism",
+        "Symptomer": [
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Prostatism"
+            },
+            {
+                "Navn": "Drowsiness"
+            },
+            {
+                "Navn": "Hyponatremia"
+            },
+            {
+                "Navn": "Fall"
+            },
+            {
+                "Navn": "Unsteady gait"
+            },
+            {
+                "Navn": "Polyuria"
+            },
+            {
+                "Navn": "Hypotension"
+            },
+            {
+                "Navn": "Difficulty"
+            },
+            {
+                "Navn": "Syncope"
+            },
+            {
+                "Navn": "Nightmare"
+            },
+            {
+                "Navn": "Speech slurred"
+            },
+            {
+                "Navn": "Weight gain"
+            },
+            {
+                "Navn": "Asthenia"
+            },
+            {
+                "Navn": "Fatigue"
+            },
+            {
+                "Navn": "Agitation"
+            },
+            {
+                "Navn": "Mental status changes"
+            },
+            {
+                "Navn": "Motor retardation"
+            },
+            {
+                "Navn": "Vomiting"
+            },
+            {
+                "Navn": "Numbness"
+            },
+            {
+                "Navn": "Mass of body structure"
+            }
+        ]
+    },
+    {
+        "Navn": "Anxiety state",
+        "Symptomer": [
+            {
+                "Navn": "Worry"
+            },
+            {
+                "Navn": "Feeling suicidal"
+            },
+            {
+                "Navn": "Suicidal"
+            },
+            {
+                "Navn": "Sleeplessness"
+            },
+            {
+                "Navn": "Feeling hopeless"
+            },
+            {
+                "Navn": "Irritable mood"
+            },
+            {
+                "Navn": "Tremor"
+            },
+            {
+                "Navn": "Blackout"
+            },
+            {
+                "Navn": "Weepiness"
+            },
+            {
+                "Navn": "Has religious belief"
+            },
+            {
+                "Navn": "Nervousness"
+            },
+            {
+                "Navn": "Hallucinations visual"
+            },
+            {
+                "Navn": "Formication"
+            },
+            {
+                "Navn": "Difficulty"
+            },
+            {
+                "Navn": "Pain chest"
+            },
+            {
+                "Navn": "Patient non compliance"
+            },
+            {
+                "Navn": "Agitation"
+            },
+            {
+                "Navn": "Palpitation"
+            },
+            {
+                "Navn": "Hallucinations auditory"
+            },
+            {
+                "Navn": "Mood depressed"
+            },
+            {
+                "Navn": "Hot flush"
+            },
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Consciousness clear"
+            },
+            {
+                "Navn": "Nightmare"
+            }
+        ]
+    },
+    {
+        "Navn": "Malignant neoplasms",
+        "Symptomer": [
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Mass of body structure"
+            },
+            {
+                "Navn": "Lesion"
+            },
+            {
+                "Navn": "Cushingoid facies"
+            },
+            {
+                "Navn": "Emphysematous change"
+            },
+            {
+                "Navn": "Decreased body weight"
+            },
+            {
+                "Navn": "Ascites"
+            },
+            {
+                "Navn": "Hoarseness"
+            },
+            {
+                "Navn": "Thicken"
+            },
+            {
+                "Navn": "Hematuria"
+            }
+        ]
+    },
+    {
+        "Navn": "Acquired immuno-deficiency syndrome",
+        "Symptomer": [
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Night sweat"
+            },
+            {
+                "Navn": "Spontaneous rupture of membranes"
+            },
+            {
+                "Navn": "Cough"
+            },
+            {
+                "Navn": ""
+            },
+            {
+                "Navn": "Decreased body weight"
+            },
+            {
+                "Navn": "Chill"
+            },
+            {
+                "Navn": "Diarrhea"
+            },
+            {
+                "Navn": "Pleuritic pain"
+            },
+            {
+                "Navn": "Patient non compliance"
+            },
+            {
+                "Navn": "Tachypnea"
+            },
+            {
+                "Navn": "Productive cough"
+            },
+            {
+                "Navn": "Muscle hypotonia"
+            },
+            {
+                "Navn": "Feeling suicidal"
+            }
+        ]
+    },
+    {
+        "Navn": "Cellulitis",
+        "Symptomer": [
+            {
+                "Navn": "Erythema"
+            },
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Swelling"
+            },
+            {
+                "Navn": "Redness"
+            },
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Abscess bacterial"
+            },
+            {
+                "Navn": "Patient non compliance"
+            },
+            {
+                "Navn": "Hypesthesia"
+            },
+            {
+                "Navn": "Hyperacusis"
+            },
+            {
+                "Navn": "Pruritus"
+            },
+            {
+                "Navn": "Pain chest"
+            },
+            {
+                "Navn": "Scratch marks"
+            },
+            {
+                "Navn": "Chill"
+            },
+            {
+                "Navn": "Sore to touch"
+            }
+        ]
+    },
+    {
+        "Navn": "Gastroesophageal reflux disease",
+        "Symptomer": [
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Pain chest"
+            },
+            {
+                "Navn": "Burning sensation"
+            },
+            {
+                "Navn": "Hyponatremia"
+            },
+            {
+                "Navn": "Satiety early"
+            },
+            {
+                "Navn": "Throbbing sensation quality"
+            },
+            {
+                "Navn": "Chest tightness"
+            },
+            {
+                "Navn": "Sensory discomfort"
+            },
+            {
+                "Navn": "Presence of q wave"
+            },
+            {
+                "Navn": "Nausea"
+            },
+            {
+                "Navn": "General discomfort"
+            },
+            {
+                "Navn": "Constipation"
+            },
+            {
+                "Navn": "Palpitation"
+            },
+            {
+                "Navn": "Pain abdominal"
+            },
+            {
+                "Navn": "Heartburn"
+            },
+            {
+                "Navn": "Sweat"
+            },
+            {
+                "Navn": "Asthenia"
+            }
+        ]
+    },
+    {
+        "Navn": "Septicemia",
+        "Symptomer": [
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Distress respiratory"
+            },
+            {
+                "Navn": "Hypotension"
+            },
+            {
+                "Navn": "Tachypnea"
+            },
+            {
+                "Navn": "Chill"
+            },
+            {
+                "Navn": "Lethargy"
+            },
+            {
+                "Navn": "Bradycardia"
+            },
+            {
+                "Navn": "Breech presentation"
+            },
+            {
+                "Navn": "Cyanosis"
+            },
+            {
+                "Navn": "Spontaneous rupture of membranes"
+            },
+            {
+                "Navn": "Haemorrhage"
+            },
+            {
+                "Navn": "Unresponsiveness"
+            },
+            {
+                "Navn": "Rale"
+            },
+            {
+                "Navn": "Apyrexial"
+            }
+        ]
+    },
+    {
+        "Navn": "Deep vein thrombosis",
+        "Symptomer": [
+            {
+                "Navn": "Swelling"
+            },
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Ecchymosis"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Pain in lower limb"
+            },
+            {
+                "Navn": "Cardiomegaly"
+            },
+            {
+                "Navn": "Rale"
+            },
+            {
+                "Navn": "Erythema"
+            },
+            {
+                "Navn": "Hypotension"
+            },
+            {
+                "Navn": "Clonus"
+            },
+            {
+                "Navn": "Non-productive cough"
+            },
+            {
+                "Navn": "Redness"
+            }
+        ]
+    },
+    {
+        "Navn": "Dehydration",
+        "Symptomer": [
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Diarrhea"
+            },
+            {
+                "Navn": "Vomiting"
+            },
+            {
+                "Navn": "Hypotension"
+            },
+            {
+                "Navn": "Nausea"
+            },
+            {
+                "Navn": "Lightheadedness"
+            },
+            {
+                "Navn": "Unwell"
+            },
+            {
+                "Navn": "Mental status changes"
+            },
+            {
+                "Navn": "Anorexia"
+            },
+            {
+                "Navn": "Asthenia"
+            },
+            {
+                "Navn": "Sensory discomfort"
+            },
+            {
+                "Navn": "Syncope"
+            },
+            {
+                "Navn": "Lethargy"
+            },
+            {
+                "Navn": "Dizziness"
+            },
+            {
+                "Navn": "Syncope"
+            }
+        ]
+    },
+    {
+        "Navn": "Neoplasm",
+        "Symptomer": [
+            {
+                "Navn": "Mass of body structure"
+            },
+            {
+                "Navn": "Lesion"
+            },
+            {
+                "Navn": "Pain chest"
+            },
+            {
+                "Navn": "Hematuria"
+            },
+            {
+                "Navn": "Tumor cell invasion"
+            },
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Anosmia"
+            },
+            {
+                "Navn": "Thicken"
+            },
+            {
+                "Navn": "Metastatic lesion"
+            },
+            {
+                "Navn": "Food intolerance"
+            },
+            {
+                "Navn": "Decreased body weight"
+            },
+            {
+                "Navn": "Night sweat"
+            },
+            {
+                "Navn": "Hemianopsia homonymous"
+            },
+            {
+                "Navn": "Satiety early"
+            },
+            {
+                "Navn": "Pain abdominal"
+            },
+            {
+                "Navn": "Headache"
+            }
+        ]
+    },
+    {
+        "Navn": "Embolism pulmonary",
+        "Symptomer": [
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Hypoxemia"
+            },
+            {
+                "Navn": "Tachypnea"
+            },
+            {
+                "Navn": "Hematocrit decreased"
+            },
+            {
+                "Navn": "Pain chest"
+            },
+            {
+                "Navn": "Dyspnea"
+            },
+            {
+                "Navn": "Pleuritic pain"
+            },
+            {
+                "Navn": "Neck stiffness"
+            },
+            {
+                "Navn": "Yellow sputum"
+            },
+            {
+                "Navn": "Productive cough"
+            },
+            {
+                "Navn": "Cicatrisation"
+            },
+            {
+                "Navn": "Unresponsiveness"
+            },
+            {
+                "Navn": "Distress respiratory"
+            },
+            {
+                "Navn": "Wheezing"
+            },
+            {
+                "Navn": "Apyrexial"
+            },
+            {
+                "Navn": "Non-productive cough"
+            }
+        ]
+    },
+    {
+        "Navn": "Epilepsy",
+        "Symptomer": [
+            {
+                "Navn": "Seizure"
+            },
+            {
+                "Navn": "Hypometabolism"
+            },
+            {
+                "Navn": "Aura"
+            },
+            {
+                "Navn": "Muscle twitch"
+            },
+            {
+                "Navn": "Drowsiness"
+            },
+            {
+                "Navn": "Tremor"
+            },
+            {
+                "Navn": "Unresponsiveness"
+            },
+            {
+                "Navn": "Hemiplegia"
+            },
+            {
+                "Navn": "Myoclonus"
+            },
+            {
+                "Navn": "Gurgle"
+            },
+            {
+                "Navn": "Sleepy"
+            },
+            {
+                "Navn": "Lethargy"
+            },
+            {
+                "Navn": "Wheelchair bound"
+            }
+        ]
+    },
+    {
+        "Navn": "Cardiomyopathy",
+        "Symptomer": [
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Orthopnea"
+            },
+            {
+                "Navn": "Hypokinesia"
+            },
+            {
+                "Navn": "Jugular venous distention"
+            },
+            {
+                "Navn": "Palpitation"
+            },
+            {
+                "Navn": "Pain chest"
+            },
+            {
+                "Navn": "Syncope"
+            },
+            {
+                "Navn": "Yellow sputum"
+            },
+            {
+                "Navn": "Rale"
+            },
+            {
+                "Navn": "Dyspnea"
+            },
+            {
+                "Navn": "Dyspnea on exertion"
+            },
+            {
+                "Navn": "Left atrial hypertrophy"
+            },
+            {
+                "Navn": "Fatigue"
+            },
+            {
+                "Navn": "Weight gain"
+            },
+            {
+                "Navn": "Patient non compliance"
+            }
+        ]
+    },
+    {
+        "Navn": "Chronic kidney failure",
+        "Symptomer": [
+            {
+                "Navn": "Vomiting"
+            },
+            {
+                "Navn": "Orthopnea"
+            },
+            {
+                "Navn": "Hyperkalemia"
+            },
+            {
+                "Navn": "Oliguria"
+            },
+            {
+                "Navn": "Jugular venous distention"
+            },
+            {
+                "Navn": "Nausea"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Mental status changes"
+            },
+            {
+                "Navn": "Diarrhea"
+            },
+            {
+                "Navn": "Asthenia"
+            },
+            {
+                "Navn": "Chest tightness"
+            },
+            {
+                "Navn": "Malaise"
+            },
+            {
+                "Navn": "Chill"
+            },
+            {
+                "Navn": "Rale"
+            },
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Pleuritic pain"
+            },
+            {
+                "Navn": "Apyrexial"
+            },
+            {
+                "Navn": "Guaiac positive"
+            },
+            {
+                "Navn": "Swelling"
+            },
+            {
+                "Navn": "Catatonia"
+            },
+            {
+                "Navn": "Unresponsiveness"
+            },
+            {
+                "Navn": "Yellow sputum"
+            }
+        ]
+    },
+    {
+        "Navn": "Carcinoma",
+        "Symptomer": [
+            {
+                "Navn": "Mass of body structure"
+            },
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Lesion"
+            },
+            {
+                "Navn": "Tumor cell invasion"
+            },
+            {
+                "Navn": "Thicken"
+            },
+            {
+                "Navn": "Decreased body weight"
+            },
+            {
+                "Navn": "Hoarseness"
+            },
+            {
+                "Navn": "General discomfort"
+            },
+            {
+                "Navn": "Metastatic lesion"
+            },
+            {
+                "Navn": "Non-productive cough"
+            },
+            {
+                "Navn": "Constipation"
+            },
+            {
+                "Navn": "Unhappy"
+            },
+            {
+                "Navn": "Paresthesia"
+            },
+            {
+                "Navn": "Gravida 0"
+            },
+            {
+                "Navn": "Diarrhea"
+            },
+            {
+                "Navn": "Sore to touch"
+            },
+            {
+                "Navn": "Heartburn"
+            },
+            {
+                "Navn": "Nausea"
+            },
+            {
+                "Navn": "Lung nodule"
+            }
+        ]
+    },
+    {
+        "Navn": "Hepatitis c",
+        "Symptomer": [
+            {
+                "Navn": "Ascites"
+            },
+            {
+                "Navn": "Distended abdomen"
+            },
+            {
+                "Navn": "Feeling suicidal"
+            },
+            {
+                "Navn": "Cough"
+            },
+            {
+                "Navn": "Ache"
+            },
+            {
+                "Navn": "Macerated skin"
+            },
+            {
+                "Navn": "Heavy feeling"
+            },
+            {
+                "Navn": "Hallucinations auditory"
+            },
+            {
+                "Navn": "Chill"
+            },
+            {
+                "Navn": "Asterixis"
+            },
+            {
+                "Navn": "Patient non compliance"
+            }
+        ]
+    },
+    {
+        "Navn": "Peripheral vascular disease",
+        "Symptomer": [
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Rest pain"
+            },
+            {
+                "Navn": "Angina pectoris"
+            },
+            {
+                "Navn": "Unresponsiveness"
+            },
+            {
+                "Navn": "Hyperkalemia"
+            },
+            {
+                "Navn": "Sinus rhythm"
+            },
+            {
+                "Navn": "Labored breathing"
+            },
+            {
+                "Navn": "Dyspnea"
+            },
+            {
+                "Navn": "Sore to touch"
+            },
+            {
+                "Navn": "Anorexia"
+            },
+            {
+                "Navn": "Sleepy"
+            }
+        ]
+    },
+    {
+        "Navn": "Psychotic disorder",
+        "Symptomer": [
+            {
+                "Navn": "Suicidal"
+            },
+            {
+                "Navn": "Hallucinations auditory"
+            },
+            {
+                "Navn": "Feeling suicidal"
+            },
+            {
+                "Navn": "Hallucinations visual"
+            },
+            {
+                "Navn": "Motor retardation"
+            },
+            {
+                "Navn": "Blackout"
+            },
+            {
+                "Navn": "Verbal auditory hallucinations"
+            },
+            {
+                "Navn": "Feeling hopeless"
+            },
+            {
+                "Navn": "Irritable mood"
+            },
+            {
+                "Navn": "Agitation"
+            },
+            {
+                "Navn": "Tremor"
+            },
+            {
+                "Navn": "Catatonia"
+            },
+            {
+                "Navn": "Weepiness"
+            },
+            {
+                "Navn": "Homelessness"
+            },
+            {
+                "Navn": "Sleeplessness"
+            },
+            {
+                "Navn": "Withdraw"
+            },
+            {
+                "Navn": "Energy increased"
+            },
+            {
+                "Navn": "Intoxication"
+            },
+            {
+                "Navn": "Worry"
+            },
+            {
+                "Navn": "Behavior hyperactive"
+            },
+            {
+                "Navn": "Patient non compliance"
+            },
+            {
+                "Navn": "Mood depressed"
+            },
+            {
+                "Navn": "Terrify"
+            },
+            {
+                "Navn": "Nightmare"
+            },
+            {
+                "Navn": "Consciousness clear"
+            }
+        ]
+    },
+    {
+        "Navn": "Hyperlipidemia",
+        "Symptomer": [
+            {
+                "Navn": "Pain chest"
+            },
+            {
+                "Navn": "Angina pectoris"
+            },
+            {
+                "Navn": "Palpitation"
+            },
+            {
+                "Navn": "Presence of q wave"
+            },
+            {
+                "Navn": "Photopsia"
+            },
+            {
+                "Navn": "Sweat"
+            },
+            {
+                "Navn": "Chest discomfort"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Giddy mood"
+            },
+            {
+                "Navn": "Hypokinesia"
+            },
+            {
+                "Navn": "Hemiplegia"
+            },
+            {
+                "Navn": "Dizziness"
+            }
+        ]
+    },
+    {
+        "Navn": "Bipolar disorder",
+        "Symptomer": [
+            {
+                "Navn": "Feeling suicidal"
+            },
+            {
+                "Navn": "Energy increased"
+            },
+            {
+                "Navn": "Suicidal"
+            },
+            {
+                "Navn": "Irritable mood"
+            },
+            {
+                "Navn": "Agitation"
+            },
+            {
+                "Navn": "Has religious belief"
+            },
+            {
+                "Navn": "Disturbed family"
+            },
+            {
+                "Navn": "Hallucinations auditory"
+            },
+            {
+                "Navn": "Verbal auditory hallucinations"
+            },
+            {
+                "Navn": "Weepiness"
+            },
+            {
+                "Navn": "Behavior hyperactive"
+            },
+            {
+                "Navn": "Catatonia"
+            },
+            {
+                "Navn": "Feeling hopeless"
+            },
+            {
+                "Navn": "Worry"
+            },
+            {
+                "Navn": "Sleeplessness"
+            },
+            {
+                "Navn": "Hypersomnia"
+            },
+            {
+                "Navn": "Difficulty"
+            },
+            {
+                "Navn": "Hallucinations visual"
+            },
+            {
+                "Navn": "Hyperhidrosis disorder"
+            },
+            {
+                "Navn": "Mydriasis"
+            },
+            {
+                "Navn": "Extrapyramidal sign"
+            },
+            {
+                "Navn": "Loose associations"
+            },
+            {
+                "Navn": "Intoxication"
+            },
+            {
+                "Navn": "Motor retardation"
+            },
+            {
+                "Navn": "Homelessness"
+            },
+            {
+                "Navn": "Blackout"
+            },
+            {
+                "Navn": "Tremor"
+            },
+            {
+                "Navn": "Exhaustion"
+            }
+        ]
+    },
+    {
+        "Navn": "Obesity",
+        "Symptomer": [
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Catatonia"
+            },
+            {
+                "Navn": "Snore"
+            },
+            {
+                "Navn": "Pain chest"
+            },
+            {
+                "Navn": "R wave feature"
+            },
+            {
+                "Navn": "Has religious belief"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Fatigue"
+            },
+            {
+                "Navn": "Overweight"
+            },
+            {
+                "Navn": "Systolic murmur"
+            },
+            {
+                "Navn": "Mood depressed"
+            },
+            {
+                "Navn": "Ecchymosis"
+            }
+        ]
+    },
+    {
+        "Navn": "Ischemia",
+        "Symptomer": [
+            {
+                "Navn": "Drowsiness"
+            },
+            {
+                "Navn": "Pain chest"
+            },
+            {
+                "Navn": "Angina pectoris"
+            },
+            {
+                "Navn": "Pressure chest"
+            },
+            {
+                "Navn": "Chest discomfort"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Dyspnea"
+            },
+            {
+                "Navn": "Sinus rhythm"
+            },
+            {
+                "Navn": "Bradycardia"
+            },
+            {
+                "Navn": "Sweat"
+            },
+            {
+                "Navn": "Rale"
+            },
+            {
+                "Navn": "Asymptomatic"
+            },
+            {
+                "Navn": "Anorexia"
+            }
+        ]
+    },
+    {
+        "Navn": "Cirrhosis",
+        "Symptomer": [
+            {
+                "Navn": "Ascites"
+            },
+            {
+                "Navn": "Fall"
+            },
+            {
+                "Navn": "Splenomegaly"
+            },
+            {
+                "Navn": "Pruritus"
+            },
+            {
+                "Navn": "Pain abdominal"
+            },
+            {
+                "Navn": "Tumor cell invasion"
+            },
+            {
+                "Navn": "Distended abdomen"
+            },
+            {
+                "Navn": "Lesion"
+            },
+            {
+                "Navn": "Hemodynamically stable"
+            },
+            {
+                "Navn": "Guaiac positive"
+            },
+            {
+                "Navn": "Sore to touch"
+            },
+            {
+                "Navn": "Bleeding of vagina"
+            }
+        ]
+    },
+    {
+        "Navn": "Exanthema",
+        "Symptomer": [
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Pruritus"
+            },
+            {
+                "Navn": "Macule"
+            },
+            {
+                "Navn": "Lesion"
+            },
+            {
+                "Navn": "Redness"
+            },
+            {
+                "Navn": "Headache"
+            },
+            {
+                "Navn": "Apyrexial"
+            },
+            {
+                "Navn": "Arthralgia"
+            },
+            {
+                "Navn": "Swelling"
+            },
+            {
+                "Navn": "Erythema"
+            },
+            {
+                "Navn": "Photophobia"
+            },
+            {
+                "Navn": "Chill"
+            },
+            {
+                "Navn": "Scratch marks"
+            },
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Painful swallowing"
+            }
+        ]
+    },
+    {
+        "Navn": "Benign prostatic hypertrophy",
+        "Symptomer": [
+            {
+                "Navn": "Mental status changes"
+            },
+            {
+                "Navn": "Cachexia"
+            },
+            {
+                "Navn": "Blackout"
+            },
+            {
+                "Navn": "Orthostasis"
+            },
+            {
+                "Navn": "Orthopnea"
+            },
+            {
+                "Navn": "Night sweat"
+            },
+            {
+                "Navn": "Distress respiratory"
+            },
+            {
+                "Navn": "Anorexia"
+            },
+            {
+                "Navn": "Dysarthria"
+            }
+        ]
+    },
+    {
+        "Navn": "Kidney failure acute",
+        "Symptomer": [
+            {
+                "Navn": "Hyperkalemia"
+            },
+            {
+                "Navn": "Hypotension"
+            },
+            {
+                "Navn": "Hypocalcemia result"
+            },
+            {
+                "Navn": "Oliguria"
+            },
+            {
+                "Navn": "Hemodynamically stable"
+            },
+            {
+                "Navn": "Asthenia"
+            },
+            {
+                "Navn": "Hypothermia, natural"
+            },
+            {
+                "Navn": "Diarrhea"
+            },
+            {
+                "Navn": "Haemorrhage"
+            },
+            {
+                "Navn": "Unresponsiveness"
+            }
+        ]
+    },
+    {
+        "Navn": "Mitral valve insufficiency",
+        "Symptomer": [
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Dyspnea on exertion"
+            },
+            {
+                "Navn": "Asymptomatic"
+            },
+            {
+                "Navn": "Hypokinesia"
+            },
+            {
+                "Navn": "Dyspnea"
+            },
+            {
+                "Navn": "Syncope"
+            },
+            {
+                "Navn": "Thicken"
+            },
+            {
+                "Navn": "Left atrial hypertrophy"
+            },
+            {
+                "Navn": "Palpitation"
+            },
+            {
+                "Navn": "Fatigue"
+            },
+            {
+                "Navn": "Vomiting"
+            },
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Cardiomegaly"
+            },
+            {
+                "Navn": "Chest discomfort"
+            }
+        ]
+    },
+    {
+        "Navn": "Arthritis",
+        "Symptomer": [
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Hemodynamically stable"
+            },
+            {
+                "Navn": "Sleeplessness"
+            },
+            {
+                "Navn": "Asthenia"
+            },
+            {
+                "Navn": "Syncope"
+            },
+            {
+                "Navn": "Swelling"
+            },
+            {
+                "Navn": "Atypia"
+            },
+            {
+                "Navn": "General unsteadiness"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Distended abdomen"
+            }
+        ]
+    },
+    {
+        "Navn": "Bronchitis",
+        "Symptomer": [
+            {
+                "Navn": "Cough"
+            },
+            {
+                "Navn": "Wheezing"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Chest tightness"
+            },
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Throat sore"
+            },
+            {
+                "Navn": "Productive cough"
+            },
+            {
+                "Navn": "Hepatosplenomegaly"
+            },
+            {
+                "Navn": "Night sweat"
+            },
+            {
+                "Navn": "Haemoptysis"
+            },
+            {
+                "Navn": "Labored breathing"
+            },
+            {
+                "Navn": "Snuffle"
+            },
+            {
+                "Navn": "Hacking cough"
+            },
+            {
+                "Navn": "Dyspnea"
+            },
+            {
+                "Navn": "Chill"
+            },
+            {
+                "Navn": "Stridor"
+            },
+            {
+                "Navn": "Decreased body weight"
+            }
+        ]
+    },
+    {
+        "Navn": "Hemiparesis",
+        "Symptomer": [
+            {
+                "Navn": "Dysarthria"
+            },
+            {
+                "Navn": "Paresis"
+            },
+            {
+                "Navn": "Asthenia"
+            },
+            {
+                "Navn": "Aphagia"
+            },
+            {
+                "Navn": "Seizure"
+            },
+            {
+                "Navn": "Speech slurred"
+            },
+            {
+                "Navn": "Focal seizures"
+            },
+            {
+                "Navn": "Hemiplegia"
+            },
+            {
+                "Navn": "Abnormal sensation"
+            },
+            {
+                "Navn": "Unresponsiveness"
+            },
+            {
+                "Navn": "Stupor"
+            },
+            {
+                "Navn": "Drowsiness"
+            },
+            {
+                "Navn": "Fremitus"
+            },
+            {
+                "Navn": "Stahli's line"
+            },
+            {
+                "Navn": "Stinging sensation"
+            },
+            {
+                "Navn": "Paralyse"
+            },
+            {
+                "Navn": "Clonus"
+            },
+            {
+                "Navn": "Facial paresis"
+            }
+        ]
+    },
+    {
+        "Navn": "Osteoporosis",
+        "Symptomer": [
+            {
+                "Navn": "Prostatism"
+            },
+            {
+                "Navn": "Fall"
+            },
+            {
+                "Navn": "Hirsutism"
+            },
+            {
+                "Navn": "Sniffle"
+            },
+            {
+                "Navn": "Distended abdomen"
+            },
+            {
+                "Navn": "Vertigo"
+            },
+            {
+                "Navn": "Numbness of hand"
+            },
+            {
+                "Navn": "Bradykinesia"
+            },
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Syncope"
+            },
+            {
+                "Navn": "Out of breath"
+            },
+            {
+                "Navn": "Apyrexial"
+            },
+            {
+                "Navn": "Urge incontinence"
+            },
+            {
+                "Navn": "Lightheadedness"
+            }
+        ]
+    },
+    {
+        "Navn": "Transient ischemic attack",
+        "Symptomer": [
+            {
+                "Navn": "Speech slurred"
+            },
+            {
+                "Navn": "Dysarthria"
+            },
+            {
+                "Navn": "Facial paresis"
+            },
+            {
+                "Navn": "Asthenia"
+            },
+            {
+                "Navn": "Neck stiffness"
+            },
+            {
+                "Navn": "Vertigo"
+            },
+            {
+                "Navn": "Numbness"
+            },
+            {
+                "Navn": "Lightheadedness"
+            },
+            {
+                "Navn": "Extrapyramidal sign"
+            },
+            {
+                "Navn": "Stahli's line"
+            },
+            {
+                "Navn": "Vision blurred"
+            },
+            {
+                "Navn": "Headache"
+            },
+            {
+                "Navn": "Room spinning"
+            },
+            {
+                "Navn": "Syncope"
+            },
+            {
+                "Navn": "Difficulty"
+            },
+            {
+                "Navn": "Rambling speech"
+            },
+            {
+                "Navn": "Clumsiness"
+            }
+        ]
+    },
+    {
+        "Navn": "Adenocarcinoma",
+        "Symptomer": [
+            {
+                "Navn": "Mass of body structure"
+            },
+            {
+                "Navn": "Lesion"
+            },
+            {
+                "Navn": "Decreased body weight"
+            },
+            {
+                "Navn": "Constipation"
+            },
+            {
+                "Navn": "Fremitus"
+            },
+            {
+                "Navn": "Decreased stool caliber"
+            },
+            {
+                "Navn": "Satiety early"
+            },
+            {
+                "Navn": "Hematochezia"
+            },
+            {
+                "Navn": "Egophony"
+            },
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Cicatrisation"
+            },
+            {
+                "Navn": "Pain abdominal"
+            }
+        ]
+    },
+    {
+        "Navn": "Paranoia",
+        "Symptomer": [
+            {
+                "Navn": "Hallucinations auditory"
+            },
+            {
+                "Navn": "Hallucinations visual"
+            },
+            {
+                "Navn": "Agitation"
+            },
+            {
+                "Navn": "Irritable mood"
+            },
+            {
+                "Navn": "Verbal auditory hallucinations"
+            },
+            {
+                "Navn": "Feeling suicidal"
+            },
+            {
+                "Navn": "Suicidal"
+            },
+            {
+                "Navn": "Terrify"
+            },
+            {
+                "Navn": "Neologism"
+            },
+            {
+                "Navn": "Homelessness"
+            },
+            {
+                "Navn": "Energy increased"
+            },
+            {
+                "Navn": "Mood depressed"
+            },
+            {
+                "Navn": "Decompensation"
+            },
+            {
+                "Navn": "Cicatrisation"
+            },
+            {
+                "Navn": "Blackout"
+            },
+            {
+                "Navn": "Loose associations"
+            }
+        ]
+    },
+    {
+        "Navn": "Pancreatitis",
+        "Symptomer": [
+            {
+                "Navn": "Vomiting"
+            },
+            {
+                "Navn": "Pain abdominal"
+            },
+            {
+                "Navn": "Nausea"
+            },
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Diarrhea"
+            },
+            {
+                "Navn": "Stool color yellow"
+            },
+            {
+                "Navn": "Rigor - temperature-associated observation"
+            },
+            {
+                "Navn": "Apyrexial"
+            },
+            {
+                "Navn": "Sore to touch"
+            }
+        ]
+    },
+    {
+        "Navn": "Incontinence",
+        "Symptomer": [
+            {
+                "Navn": "Paraparesis"
+            },
+            {
+                "Navn": "Seizure"
+            },
+            {
+                "Navn": "Asthenia"
+            },
+            {
+                "Navn": "Urge incontinence"
+            },
+            {
+                "Navn": "Unconscious state"
+            },
+            {
+                "Navn": "Aura"
+            },
+            {
+                "Navn": "Moody"
+            },
+            {
+                "Navn": "Fear of falling"
+            },
+            {
+                "Navn": "Tremor"
+            },
+            {
+                "Navn": "Spasm"
+            },
+            {
+                "Navn": "Unhappy"
+            },
+            {
+                "Navn": "Syncope"
+            },
+            {
+                "Navn": "Fall"
+            },
+            {
+                "Navn": "Stiffness"
+            },
+            {
+                "Navn": "Unresponsiveness"
+            }
+        ]
+    },
+    {
+        "Navn": "Paroxysmal dyspnea",
+        "Symptomer": [
+            {
+                "Navn": "Orthopnea"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Dyspnea on exertion"
+            },
+            {
+                "Navn": "Jugular venous distention"
+            },
+            {
+                "Navn": "Rale"
+            },
+            {
+                "Navn": "Pain chest"
+            },
+            {
+                "Navn": "Palpitation"
+            },
+            {
+                "Navn": "Sweat"
+            },
+            {
+                "Navn": "Weight gain"
+            },
+            {
+                "Navn": "Cough"
+            },
+            {
+                "Navn": "Dyspnea"
+            }
+        ]
+    },
+    {
+        "Navn": "Hernia",
+        "Symptomer": [
+            {
+                "Navn": "Pain abdominal"
+            },
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Hyperventilation"
+            },
+            {
+                "Navn": "Excruciating pain"
+            },
+            {
+                "Navn": "Gag"
+            },
+            {
+                "Navn": "Nausea"
+            },
+            {
+                "Navn": "Posturing"
+            },
+            {
+                "Navn": "Hemiplegia"
+            },
+            {
+                "Navn": "Sore to touch"
+            },
+            {
+                "Navn": "Haemorrhage"
+            },
+            {
+                "Navn": "Apyrexial"
+            },
+            {
+                "Navn": "Food intolerance"
+            },
+            {
+                "Navn": "Pulse absent"
+            },
+            {
+                "Navn": "Asthenia"
+            },
+            {
+                "Navn": "Mass of body structure"
+            },
+            {
+                "Navn": "Thicken"
+            }
+        ]
+    },
+    {
+        "Navn": "Malignant neoplasm of prostate",
+        "Symptomer": [
+            {
+                "Navn": "Hematuria"
+            },
+            {
+                "Navn": "Dysesthesia"
+            },
+            {
+                "Navn": "Asthenia"
+            },
+            {
+                "Navn": "Polymyalgia"
+            },
+            {
+                "Navn": "Passed stones"
+            },
+            {
+                "Navn": "Pleuritic pain"
+            },
+            {
+                "Navn": "Guaiac positive"
+            },
+            {
+                "Navn": "Rale"
+            },
+            {
+                "Navn": "Breath sounds decreased"
+            },
+            {
+                "Navn": "Urge incontinence"
+            },
+            {
+                "Navn": "Dysuria"
+            },
+            {
+                "Navn": "Diarrhea"
+            },
+            {
+                "Navn": "Vertigo"
+            },
+            {
+                "Navn": "Qt interval prolonged"
+            },
+            {
+                "Navn": "Ataxia"
+            },
+            {
+                "Navn": "Paresis"
+            },
+            {
+                "Navn": "Hemianopsia homonymous"
+            },
+            {
+                "Navn": "Tumor cell invasion"
+            },
+            {
+                "Navn": "Hemodynamically stable"
+            },
+            {
+                "Navn": "Mass of body structure"
+            },
+            {
+                "Navn": "Rhonchus"
+            },
+            {
+                "Navn": "Orthostasis"
+            },
+            {
+                "Navn": "Decreased body weight"
+            }
+        ]
+    },
+    {
+        "Navn": "Edema pulmonary",
+        "Symptomer": [
+            {
+                "Navn": "Urgency of micturition"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Rale"
+            },
+            {
+                "Navn": "Tachypnea"
+            },
+            {
+                "Navn": "Orthopnea"
+            },
+            {
+                "Navn": "Heberden's node"
+            },
+            {
+                "Navn": "Jugular venous distention"
+            },
+            {
+                "Navn": "Dyspnea"
+            },
+            {
+                "Navn": "Sweat"
+            },
+            {
+                "Navn": "Patient non compliance"
+            },
+            {
+                "Navn": "Chest discomfort"
+            },
+            {
+                "Navn": "Hyperkalemia"
+            },
+            {
+                "Navn": "Sinus rhythm"
+            },
+            {
+                "Navn": "Pain chest"
+            },
+            {
+                "Navn": "Hypotension"
+            },
+            {
+                "Navn": "Wheezing"
+            }
+        ]
+    },
+    {
+        "Navn": "Lymphatic diseases",
+        "Symptomer": [
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Mass of body structure"
+            },
+            {
+                "Navn": "Night sweat"
+            },
+            {
+                "Navn": "Splenomegaly"
+            },
+            {
+                "Navn": "Lesion"
+            },
+            {
+                "Navn": "Chill"
+            },
+            {
+                "Navn": "Decreased body weight"
+            },
+            {
+                "Navn": "Swelling"
+            },
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Hyperacusis"
+            },
+            {
+                "Navn": "Fremitus"
+            },
+            {
+                "Navn": "Non-productive cough"
+            },
+            {
+                "Navn": "Egophony"
+            },
+            {
+                "Navn": "Redness"
+            },
+            {
+                "Navn": "Hepatomegaly"
+            },
+            {
+                "Navn": "Fatigue"
+            }
+        ]
+    },
+    {
+        "Navn": "Stenosis aortic valve",
+        "Symptomer": [
+            {
+                "Navn": "Dyspnea on exertion"
+            },
+            {
+                "Navn": "Syncope"
+            },
+            {
+                "Navn": "Chest discomfort"
+            },
+            {
+                "Navn": "Systolic murmur"
+            },
+            {
+                "Navn": "Sciatica"
+            },
+            {
+                "Navn": "Angina pectoris"
+            },
+            {
+                "Navn": "Pain chest"
+            },
+            {
+                "Navn": "Frothy sputum"
+            },
+            {
+                "Navn": "Bradycardia"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Pain"
+            }
+        ]
+    },
+    {
+        "Navn": "Malignant neoplasm of breast",
+        "Symptomer": [
+            {
+                "Navn": "Mass in breast"
+            },
+            {
+                "Navn": "Mass of body structure"
+            },
+            {
+                "Navn": "Paresthesia"
+            },
+            {
+                "Navn": "Retropulsion"
+            },
+            {
+                "Navn": "Erythema"
+            },
+            {
+                "Navn": "Difficulty"
+            },
+            {
+                "Navn": "Lesion"
+            },
+            {
+                "Navn": "Estrogen use"
+            },
+            {
+                "Navn": "Burning sensation"
+            },
+            {
+                "Navn": "Dyspnea"
+            },
+            {
+                "Navn": "Swelling"
+            },
+            {
+                "Navn": "Formication"
+            }
+        ]
+    },
+    {
+        "Navn": "Schizophrenia",
+        "Symptomer": [
+            {
+                "Navn": "Hallucinations auditory"
+            },
+            {
+                "Navn": "Hypersomnolence"
+            },
+            {
+                "Navn": "Irritable mood"
+            },
+            {
+                "Navn": "Verbal auditory hallucinations"
+            },
+            {
+                "Navn": "Patient non compliance"
+            },
+            {
+                "Navn": "Agitation"
+            },
+            {
+                "Navn": "Suicidal"
+            },
+            {
+                "Navn": "Worry"
+            },
+            {
+                "Navn": "Hallucinations visual"
+            },
+            {
+                "Navn": "Underweight"
+            },
+            {
+                "Navn": "Homelessness"
+            }
+        ]
+    },
+    {
+        "Navn": "Diverticulitis",
+        "Symptomer": [
+            {
+                "Navn": "Pain abdominal"
+            },
+            {
+                "Navn": "Abscess bacterial"
+            },
+            {
+                "Navn": "Dullness"
+            },
+            {
+                "Navn": "Red blotches"
+            },
+            {
+                "Navn": "Diarrhea"
+            },
+            {
+                "Navn": "Sore to touch"
+            },
+            {
+                "Navn": "Dysuria"
+            },
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Vomiting"
+            },
+            {
+                "Navn": "Sinus rhythm"
+            },
+            {
+                "Navn": "Colic abdominal"
+            },
+            {
+                "Navn": "Apyrexial"
+            },
+            {
+                "Navn": "Abdominal tenderness"
+            },
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Unsteady gait"
+            },
+            {
+                "Navn": "Thicken"
+            },
+            {
+                "Navn": "Urgency of micturition"
+            },
+            {
+                "Navn": "Anorexia"
+            },
+            {
+                "Navn": "Monoclonal"
+            },
+            {
+                "Navn": "Constipation"
+            }
+        ]
+    },
+    {
+        "Navn": "Overload fluid",
+        "Symptomer": [
+            {
+                "Navn": "Rale"
+            },
+            {
+                "Navn": "Jugular venous distention"
+            },
+            {
+                "Navn": "Hyperkalemia"
+            },
+            {
+                "Navn": "Orthopnea"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Drowsiness"
+            },
+            {
+                "Navn": "Weight gain"
+            },
+            {
+                "Navn": "Hypokalemia"
+            },
+            {
+                "Navn": "Hypotension"
+            },
+            {
+                "Navn": "Swelling"
+            },
+            {
+                "Navn": "Distended abdomen"
+            }
+        ]
+    },
+    {
+        "Navn": "Ulcer peptic",
+        "Symptomer": [
+            {
+                "Navn": "Pain abdominal"
+            },
+            {
+                "Navn": "Paraparesis"
+            },
+            {
+                "Navn": "Nausea"
+            },
+            {
+                "Navn": "Vomiting"
+            },
+            {
+                "Navn": "Polymyalgia"
+            },
+            {
+                "Navn": "Out of breath"
+            },
+            {
+                "Navn": "Pain chest"
+            },
+            {
+                "Navn": "Hemiplegia"
+            },
+            {
+                "Navn": "Gurgle"
+            },
+            {
+                "Navn": "Hunger"
+            },
+            {
+                "Navn": "Apyrexial"
+            },
+            {
+                "Navn": "Nervousness"
+            }
+        ]
+    },
+    {
+        "Navn": "Osteomyelitis",
+        "Symptomer": [
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Redness"
+            },
+            {
+                "Navn": "Prostate tender"
+            },
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Difficulty passing urine"
+            },
+            {
+                "Navn": "Sore to touch"
+            },
+            {
+                "Navn": "Swelling"
+            },
+            {
+                "Navn": "Apyrexial"
+            },
+            {
+                "Navn": "Erythema"
+            },
+            {
+                "Navn": "Abscess bacterial"
+            },
+            {
+                "Navn": "Pain foot"
+            },
+            {
+                "Navn": "Urinary hesitation"
+            }
+        ]
+    },
+    {
+        "Navn": "Gastritis",
+        "Symptomer": [
+            {
+                "Navn": "Heme positive"
+            },
+            {
+                "Navn": "Pain abdominal"
+            },
+            {
+                "Navn": "Vomiting"
+            },
+            {
+                "Navn": "Disequilibrium"
+            },
+            {
+                "Navn": "Nausea"
+            },
+            {
+                "Navn": "Intoxication"
+            },
+            {
+                "Navn": "Haemorrhage"
+            },
+            {
+                "Navn": "Guaiac positive"
+            },
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Decreased body weight"
+            },
+            {
+                "Navn": "Sore to touch"
+            },
+            {
+                "Navn": "Dizziness"
+            }
+        ]
+    },
+    {
+        "Navn": "Bacteremia",
+        "Symptomer": [
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Chill"
+            },
+            {
+                "Navn": "Flushing"
+            },
+            {
+                "Navn": "Unresponsiveness"
+            },
+            {
+                "Navn": "Indifferent mood"
+            },
+            {
+                "Navn": "Urinoma"
+            },
+            {
+                "Navn": "Vomiting"
+            },
+            {
+                "Navn": "Distended abdomen"
+            },
+            {
+                "Navn": "Hypoalbuminemia"
+            },
+            {
+                "Navn": "Pustule"
+            },
+            {
+                "Navn": "Prostatism"
+            },
+            {
+                "Navn": "Diarrhea"
+            },
+            {
+                "Navn": "Abdominal tenderness"
+            },
+            {
+                "Navn": "Pleuritic pain"
+            },
+            {
+                "Navn": "Decreased translucency"
+            },
+            {
+                "Navn": "Pallor"
+            }
+        ]
+    },
+    {
+        "Navn": "Failure kidney",
+        "Symptomer": [
+            {
+                "Navn": "Orthopnea"
+            },
+            {
+                "Navn": "Oliguria"
+            },
+            {
+                "Navn": "Slowing of urinary stream"
+            },
+            {
+                "Navn": "Extreme exhaustion"
+            },
+            {
+                "Navn": "Unresponsiveness"
+            },
+            {
+                "Navn": "Hypotension"
+            },
+            {
+                "Navn": "Enuresis"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Haemorrhage"
+            },
+            {
+                "Navn": "Prostatism"
+            },
+            {
+                "Navn": "No status change"
+            },
+            {
+                "Navn": "Bedridden"
+            },
+            {
+                "Navn": "Fatigue"
+            }
+        ]
+    },
+    {
+        "Navn": "Sickle cell anemia",
+        "Symptomer": [
+            {
+                "Navn": "Breakthrough pain"
+            },
+            {
+                "Navn": "Pain back"
+            },
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Snuffle"
+            },
+            {
+                "Navn": "Pain chest"
+            },
+            {
+                "Navn": "Pain abdominal"
+            },
+            {
+                "Navn": "Hepatosplenomegaly"
+            },
+            {
+                "Navn": "Green sputum"
+            },
+            {
+                "Navn": "Apyrexial"
+            },
+            {
+                "Navn": "Headache"
+            }
+        ]
+    },
+    {
+        "Navn": "Failure heart",
+        "Symptomer": [
+            {
+                "Navn": "Orthopnea"
+            },
+            {
+                "Navn": "Fatigue"
+            },
+            {
+                "Navn": "Dyspnea on exertion"
+            },
+            {
+                "Navn": "Dyspnea"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Pansystolic murmur"
+            },
+            {
+                "Navn": "Jugular venous distention"
+            },
+            {
+                "Navn": "Systolic ejection murmur"
+            },
+            {
+                "Navn": "Hypotension"
+            },
+            {
+                "Navn": "Angina pectoris"
+            },
+            {
+                "Navn": "Hypokinesia"
+            }
+        ]
+    },
+    {
+        "Navn": "Upper respiratory infection",
+        "Symptomer": [
+            {
+                "Navn": "Cough"
+            },
+            {
+                "Navn": "Throat sore"
+            },
+            {
+                "Navn": "Wheezing"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Labored breathing"
+            },
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Stuffy nose"
+            },
+            {
+                "Navn": "Non-productive cough"
+            },
+            {
+                "Navn": "Snuffle"
+            },
+            {
+                "Navn": "Indifferent mood"
+            },
+            {
+                "Navn": "Egophony"
+            },
+            {
+                "Navn": "Barking cough"
+            },
+            {
+                "Navn": "Polymyalgia"
+            },
+            {
+                "Navn": "Pleuritic pain"
+            },
+            {
+                "Navn": "Night sweat"
+            },
+            {
+                "Navn": "Dyspnea"
+            },
+            {
+                "Navn": "Productive cough"
+            },
+            {
+                "Navn": "Decreased translucency"
+            },
+            {
+                "Navn": "Rhonchus"
+            },
+            {
+                "Navn": "Rapid shallow breathing"
+            },
+            {
+                "Navn": "Apyrexial"
+            },
+            {
+                "Navn": "Noisy respiration"
+            },
+            {
+                "Navn": "Nasal discharge present"
+            },
+            {
+                "Navn": "Emphysematous change"
+            },
+            {
+                "Navn": "Frail"
+            },
+            {
+                "Navn": "Cystic lesion"
+            },
+            {
+                "Navn": "Symptom aggravating factors"
+            },
+            {
+                "Navn": "Hemodynamically stable"
+            }
+        ]
+    },
+    {
+        "Navn": "Hepatitis",
+        "Symptomer": [
+            {
+                "Navn": "Ascites"
+            },
+            {
+                "Navn": "Spontaneous rupture of membranes"
+            },
+            {
+                "Navn": "Tachypnea"
+            },
+            {
+                "Navn": "Pain abdominal"
+            },
+            {
+                "Navn": "Pruritus"
+            },
+            {
+                "Navn": "Anorexia"
+            },
+            {
+                "Navn": "Transaminitis"
+            },
+            {
+                "Navn": "Projectile vomiting"
+            },
+            {
+                "Navn": "Chill"
+            },
+            {
+                "Navn": "Distress respiratory"
+            },
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Vomiting"
+            }
+        ]
+    },
+    {
+        "Navn": "Hypertension pulmonary",
+        "Symptomer": [
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Stahli's line"
+            },
+            {
+                "Navn": "Heavy legs"
+            },
+            {
+                "Navn": "Breath sounds decreased"
+            },
+            {
+                "Navn": "Neck stiffness"
+            },
+            {
+                "Navn": "Dyspnea on exertion"
+            },
+            {
+                "Navn": "Cyanosis"
+            },
+            {
+                "Navn": "Hypotension"
+            },
+            {
+                "Navn": "Left atrial hypertrophy"
+            }
+        ]
+    },
+    {
+        "Navn": "Deglutition disorder",
+        "Symptomer": [
+            {
+                "Navn": "Paresthesia"
+            },
+            {
+                "Navn": "Titubation"
+            },
+            {
+                "Navn": "Dysarthria"
+            },
+            {
+                "Navn": "Painful swallowing"
+            },
+            {
+                "Navn": "Hoarseness"
+            },
+            {
+                "Navn": "Stridor"
+            },
+            {
+                "Navn": "Spasm"
+            },
+            {
+                "Navn": "Asthenia"
+            },
+            {
+                "Navn": "Dysdiadochokinesia"
+            },
+            {
+                "Navn": "Ataxia"
+            },
+            {
+                "Navn": "Achalasia"
+            },
+            {
+                "Navn": "Decreased body weight"
+            },
+            {
+                "Navn": "Stiffness"
+            },
+            {
+                "Navn": "Lesion"
+            },
+            {
+                "Navn": "Side pain"
+            }
+        ]
+    },
+    {
+        "Navn": "Gout",
+        "Symptomer": [
+            {
+                "Navn": "Hot flush"
+            },
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Redness"
+            },
+            {
+                "Navn": "Swelling"
+            },
+            {
+                "Navn": "Erythema"
+            },
+            {
+                "Navn": "Emphysematous change"
+            },
+            {
+                "Navn": "Sore to touch"
+            },
+            {
+                "Navn": "Hypokinesia"
+            },
+            {
+                "Navn": "Ascites"
+            },
+            {
+                "Navn": "Patient non compliance"
+            }
+        ]
+    },
+    {
+        "Navn": "Thrombocytopaenia",
+        "Symptomer": [
+            {
+                "Navn": "Ecchymosis"
+            },
+            {
+                "Navn": "Monocytosis"
+            },
+            {
+                "Navn": "Posterior rhinorrhea"
+            },
+            {
+                "Navn": "Haemorrhage"
+            },
+            {
+                "Navn": "Tachypnea"
+            },
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Pruritus"
+            },
+            {
+                "Navn": "Hypotension"
+            },
+            {
+                "Navn": "Fatigue"
+            }
+        ]
+    },
+    {
+        "Navn": "Hypoglycemia",
+        "Symptomer": [
+            {
+                "Navn": "Unresponsiveness"
+            },
+            {
+                "Navn": "Hypothermia, natural"
+            },
+            {
+                "Navn": "Incoherent"
+            },
+            {
+                "Navn": "Qt interval prolonged"
+            },
+            {
+                "Navn": "Lameness"
+            },
+            {
+                "Navn": "Unconscious state"
+            },
+            {
+                "Navn": "Clammy skin"
+            },
+            {
+                "Navn": "Polyuria"
+            },
+            {
+                "Navn": "Distress respiratory"
+            },
+            {
+                "Navn": "Hypotension"
+            }
+        ]
+    },
+    {
+        "Navn": "Pneumonia aspiration",
+        "Symptomer": [
+            {
+                "Navn": "Mediastinal shift"
+            },
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Clonus"
+            },
+            {
+                "Navn": "Mental status changes"
+            },
+            {
+                "Navn": "Decreased translucency"
+            },
+            {
+                "Navn": "Unresponsiveness"
+            },
+            {
+                "Navn": "Extreme exhaustion"
+            },
+            {
+                "Navn": "Stupor"
+            },
+            {
+                "Navn": "Seizure"
+            },
+            {
+                "Navn": "Transaminitis"
+            },
+            {
+                "Navn": "Hemiplegia"
+            },
+            {
+                "Navn": "Cough"
+            },
+            {
+                "Navn": "Gurgle"
+            },
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Diarrhea"
+            },
+            {
+                "Navn": "Pain abdominal"
+            }
+        ]
+    },
+    {
+        "Navn": "Colitis",
+        "Symptomer": [
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Thicken"
+            },
+            {
+                "Navn": "Green sputum"
+            },
+            {
+                "Navn": "Vomiting"
+            },
+            {
+                "Navn": "Nausea and vomiting"
+            },
+            {
+                "Navn": "Awakening early"
+            },
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Nausea"
+            },
+            {
+                "Navn": "Chill"
+            },
+            {
+                "Navn": "Tenesmus"
+            },
+            {
+                "Navn": "Urge incontinence"
+            },
+            {
+                "Navn": "Pain abdominal"
+            },
+            {
+                "Navn": "Hemodynamically stable"
+            }
+        ]
+    },
+    {
+        "Navn": "Diverticulosis",
+        "Symptomer": [
+            {
+                "Navn": "Fecaluria"
+            },
+            {
+                "Navn": "Constipation"
+            },
+            {
+                "Navn": "Abscess bacterial"
+            },
+            {
+                "Navn": "Heme positive"
+            },
+            {
+                "Navn": "Lightheadedness"
+            },
+            {
+                "Navn": "Diarrhea"
+            },
+            {
+                "Navn": "Haemorrhage"
+            },
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Projectile vomiting"
+            },
+            {
+                "Navn": "Pneumatouria"
+            },
+            {
+                "Navn": "Cystic lesion"
+            },
+            {
+                "Navn": "Anorexia"
+            },
+            {
+                "Navn": "Nausea"
+            },
+            {
+                "Navn": "Feeling suicidal"
+            },
+            {
+                "Navn": "Feeling hopeless"
+            }
+        ]
+    },
+    {
+        "Navn": "Suicide attempt",
+        "Symptomer": [
+            {
+                "Navn": "Hallucinations auditory"
+            },
+            {
+                "Navn": "Sleeplessness"
+            },
+            {
+                "Navn": "Suicidal"
+            },
+            {
+                "Navn": "Motor retardation"
+            },
+            {
+                "Navn": "Weepiness"
+            },
+            {
+                "Navn": "Unable to concentrate"
+            },
+            {
+                "Navn": "Todd paralysis"
+            },
+            {
+                "Navn": "Worry"
+            },
+            {
+                "Navn": "Fatigue"
+            },
+            {
+                "Navn": "Tremor"
+            },
+            {
+                "Navn": "Alcoholic withdrawal symptoms"
+            },
+            {
+                "Navn": "Agitation"
+            },
+            {
+                "Navn": "Unresponsiveness"
+            },
+            {
+                "Navn": "Blackout"
+            },
+            {
+                "Navn": "Withdraw"
+            },
+            {
+                "Navn": "Difficulty"
+            },
+            {
+                "Navn": "Irritable mood"
+            },
+            {
+                "Navn": "Sensory discomfort"
+            },
+            {
+                "Navn": "Drowsiness"
+            },
+            {
+                "Navn": "Formication"
+            },
+            {
+                "Navn": "Unconscious state"
+            },
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Cough"
+            }
+        ]
+    },
+    {
+        "Navn": "Pneumocystis carinii pneumonia",
+        "Symptomer": [
+            {
+                "Navn": "Yellow sputum"
+            },
+            {
+                "Navn": "Cachexia"
+            },
+            {
+                "Navn": "Chill"
+            },
+            {
+                "Navn": "Decreased body weight"
+            },
+            {
+                "Navn": "Productive cough"
+            },
+            {
+                "Navn": "Myalgia"
+            },
+            {
+                "Navn": "Diarrhea"
+            },
+            {
+                "Navn": "Neck stiffness"
+            },
+            {
+                "Navn": "Hacking cough"
+            },
+            {
+                "Navn": "Dyspareunia"
+            },
+            {
+                "Navn": "Hypokalemia"
+            },
+            {
+                "Navn": "Dyspnea on exertion"
+            },
+            {
+                "Navn": "Poor dentition"
+            },
+            {
+                "Navn": "Transaminitis"
+            },
+            {
+                "Navn": "Non-productive cough"
+            },
+            {
+                "Navn": "Headache"
+            },
+            {
+                "Navn": "Floppy"
+            },
+            {
+                "Navn": "Spontaneous rupture of membranes"
+            }
+        ]
+    },
+    {
+        "Navn": "Hepatitis b",
+        "Symptomer": [
+            {
+                "Navn": "Inappropriate affect"
+            },
+            {
+                "Navn": "Tachypnea"
+            },
+            {
+                "Navn": "Yellow sputum"
+            },
+            {
+                "Navn": "Projectile vomiting"
+            },
+            {
+                "Navn": "Poor feeding"
+            },
+            {
+                "Navn": "Pain abdominal"
+            },
+            {
+                "Navn": "Abdominal tenderness"
+            },
+            {
+                "Navn": "Wheelchair bound"
+            },
+            {
+                "Navn": "Moan"
+            }
+        ]
+    },
+    {
+        "Navn": "Parkinson disease",
+        "Symptomer": [
+            {
+                "Navn": "Achalasia"
+            },
+            {
+                "Navn": "Fall"
+            },
+            {
+                "Navn": "Stiffness"
+            },
+            {
+                "Navn": "Withdraw"
+            },
+            {
+                "Navn": "Agitation"
+            },
+            {
+                "Navn": "Hemiplegia"
+            },
+            {
+                "Navn": "Difficulty"
+            },
+            {
+                "Navn": "Unresponsiveness"
+            },
+            {
+                "Navn": "Syncope"
+            },
+            {
+                "Navn": "Facial paresis"
+            },
+            {
+                "Navn": "Orthostasis"
+            },
+            {
+                "Navn": "Worry"
+            },
+            {
+                "Navn": "Drowsiness"
+            },
+            {
+                "Navn": "Hematuria"
+            },
+            {
+                "Navn": "Tremor"
+            },
+            {
+                "Navn": "Night sweat"
+            },
+            {
+                "Navn": "Mass of body structure"
+            }
+        ]
+    },
+    {
+        "Navn": "Lymphoma",
+        "Symptomer": [
+            {
+                "Navn": "Lesion"
+            },
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Welt"
+            },
+            {
+                "Navn": "Transaminitis"
+            },
+            {
+                "Navn": "Decreased body weight"
+            },
+            {
+                "Navn": "Ataxia"
+            },
+            {
+                "Navn": "Tinnitus"
+            },
+            {
+                "Navn": "Hydropneumothorax"
+            },
+            {
+                "Navn": "Superimposition"
+            },
+            {
+                "Navn": "Haemoptysis"
+            },
+            {
+                "Navn": "Fatigue"
+            },
+            {
+                "Navn": "Polydypsia"
+            },
+            {
+                "Navn": "Difficulty passing urine"
+            }
+        ]
+    },
+    {
+        "Navn": "Hyperglycemia",
+        "Symptomer": [
+            {
+                "Navn": "Sore to touch"
+            },
+            {
+                "Navn": "Pruritus"
+            },
+            {
+                "Navn": "Feeling strange"
+            },
+            {
+                "Navn": "Pustule"
+            },
+            {
+                "Navn": "Cushingoid facies"
+            },
+            {
+                "Navn": "Decreased body weight"
+            },
+            {
+                "Navn": "Mood depressed"
+            },
+            {
+                "Navn": "Estrogen use"
+            },
+            {
+                "Navn": "Wheezing"
+            },
+            {
+                "Navn": "Ascites"
+            },
+            {
+                "Navn": "Seizure"
+            }
+        ]
+    },
+    {
+        "Navn": "Encephalopathy",
+        "Symptomer": [
+            {
+                "Navn": "Uncoordination"
+            },
+            {
+                "Navn": "Asterixis"
+            },
+            {
+                "Navn": "Haemorrhage"
+            },
+            {
+                "Navn": "Drowsiness"
+            },
+            {
+                "Navn": "Absences finding"
+            },
+            {
+                "Navn": "Posturing"
+            },
+            {
+                "Navn": "Aura"
+            },
+            {
+                "Navn": "Tonic seizures"
+            },
+            {
+                "Navn": "Debilitation"
+            },
+            {
+                "Navn": "Consciousness clear"
+            },
+            {
+                "Navn": "Unresponsiveness"
+            },
+            {
+                "Navn": "Thicken"
+            },
+            {
+                "Navn": "Hypokinesia"
+            }
+        ]
+    },
+    {
+        "Navn": "Tricuspid valve insufficiency",
+        "Symptomer": [
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Vomiting"
+            },
+            {
+                "Navn": "Nausea"
+            },
+            {
+                "Navn": "Bradycardia"
+            },
+            {
+                "Navn": "Pain abdominal"
+            },
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Cicatrisation"
+            },
+            {
+                "Navn": "Mediastinal shift"
+            },
+            {
+                "Navn": "Impaired cognition"
+            }
+        ]
+    },
+    {
+        "Navn": "Alzheimer's disease",
+        "Symptomer": [
+            {
+                "Navn": "Drool"
+            },
+            {
+                "Navn": "Agitation"
+            },
+            {
+                "Navn": "Nightmare"
+            },
+            {
+                "Navn": "Rhonchus"
+            },
+            {
+                "Navn": "Consciousness clear"
+            },
+            {
+                "Navn": "Pin-point pupils"
+            },
+            {
+                "Navn": "Bedridden"
+            },
+            {
+                "Navn": "Frail"
+            },
+            {
+                "Navn": "Tremor resting"
+            },
+            {
+                "Navn": "Hyperkalemia"
+            },
+            {
+                "Navn": "Facial paresis"
+            },
+            {
+                "Navn": "Groggy"
+            },
+            {
+                "Navn": "Muscle twitch"
+            },
+            {
+                "Navn": "Wheelchair bound"
+            },
+            {
+                "Navn": "Tremor"
+            },
+            {
+                "Navn": "Cough"
+            },
+            {
+                "Navn": "Fever"
+            }
+        ]
+    },
+    {
+        "Navn": "Candidiasis",
+        "Symptomer": [
+            {
+                "Navn": "Diarrhea"
+            },
+            {
+                "Navn": "Throat sore"
+            },
+            {
+                "Navn": "Decreased body weight"
+            },
+            {
+                "Navn": "Chill"
+            },
+            {
+                "Navn": "Headache"
+            },
+            {
+                "Navn": "Abdominal tenderness"
+            },
+            {
+                "Navn": "Patient non compliance"
+            },
+            {
+                "Navn": "Photophobia"
+            },
+            {
+                "Navn": "Night sweat"
+            },
+            {
+                "Navn": "Painful swallowing"
+            },
+            {
+                "Navn": "Poor dentition"
+            },
+            {
+                "Navn": "Transaminitis"
+            },
+            {
+                "Navn": "Non-productive cough"
+            },
+            {
+                "Navn": "Adverse reaction"
+            },
+            {
+                "Navn": "Abdominal bloating"
+            }
+        ]
+    },
+    {
+        "Navn": "Neuropathy",
+        "Symptomer": [
+            {
+                "Navn": "Asthenia"
+            },
+            {
+                "Navn": "Numbness"
+            },
+            {
+                "Navn": "Nausea and vomiting"
+            },
+            {
+                "Navn": "Awakening early"
+            },
+            {
+                "Navn": "Hydropneumothorax"
+            },
+            {
+                "Navn": "Superimposition"
+            },
+            {
+                "Navn": "Fatigability"
+            },
+            {
+                "Navn": "Tenesmus"
+            },
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Slowing of urinary stream"
+            }
+        ]
+    },
+    {
+        "Navn": "Kidney disease",
+        "Symptomer": [
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Hyperkalemia"
+            },
+            {
+                "Navn": "Pain chest"
+            },
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Gravida 0"
+            },
+            {
+                "Navn": "Bleeding of vagina"
+            }
+        ]
+    },
+    {
+        "Navn": "Fibroid tumor",
+        "Symptomer": [
+            {
+                "Navn": "Para 2"
+            },
+            {
+                "Navn": "Haemorrhage"
+            },
+            {
+                "Navn": "Abortion"
+            },
+            {
+                "Navn": "Intermenstrual heavy bleeding"
+            },
+            {
+                "Navn": "Muscle hypotonia"
+            },
+            {
+                "Navn": "Previous pregnancies 2"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Heartburn"
+            },
+            {
+                "Navn": "Primigravida"
+            },
+            {
+                "Navn": "Abnormally hard consistency"
+            },
+            {
+                "Navn": "Proteinemia"
+            }
+        ]
+    },
+    {
+        "Navn": "Glaucoma",
+        "Symptomer": [
+            {
+                "Navn": "Fall"
+            },
+            {
+                "Navn": "Distended abdomen"
+            },
+            {
+                "Navn": "Unsteady gait"
+            },
+            {
+                "Navn": "Paresthesia"
+            },
+            {
+                "Navn": "Hyponatremia"
+            },
+            {
+                "Navn": "Agitation"
+            },
+            {
+                "Navn": "Unconscious state"
+            },
+            {
+                "Navn": "Burning sensation"
+            },
+            {
+                "Navn": "Lesion"
+            },
+            {
+                "Navn": "Mass of body structure"
+            }
+        ]
+    },
+    {
+        "Navn": "Neoplasm metastasis",
+        "Symptomer": [
+            {
+                "Navn": "Thicken"
+            },
+            {
+                "Navn": "Tumor cell invasion"
+            },
+            {
+                "Navn": "Metastatic lesion"
+            },
+            {
+                "Navn": "Pain neck"
+            },
+            {
+                "Navn": "Lung nodule"
+            },
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Pain abdominal"
+            },
+            {
+                "Navn": "Food intolerance"
+            },
+            {
+                "Navn": "Mass of body structure"
+            },
+            {
+                "Navn": "Atypia"
+            }
+        ]
+    },
+    {
+        "Navn": "Malignant tumor of colon",
+        "Symptomer": [
+            {
+                "Navn": "Lesion"
+            },
+            {
+                "Navn": "Prostatism"
+            },
+            {
+                "Navn": "Constipation"
+            },
+            {
+                "Navn": "General discomfort"
+            },
+            {
+                "Navn": "Diarrhea"
+            },
+            {
+                "Navn": "Pain abdominal"
+            },
+            {
+                "Navn": "Urinary hesitation"
+            },
+            {
+                "Navn": "Dizzy spells"
+            },
+            {
+                "Navn": "Shooting pain"
+            },
+            {
+                "Navn": "Bradycardia"
+            },
+            {
+                "Navn": "Vomiting"
+            },
+            {
+                "Navn": "Systolic ejection murmur"
+            },
+            {
+                "Navn": "Nausea"
+            },
+            {
+                "Navn": "Hyperemesis"
+            },
+            {
+                "Navn": "Polydypsia"
+            }
+        ]
+    },
+    {
+        "Navn": "Ketoacidosis diabetic",
+        "Symptomer": [
+            {
+                "Navn": "Polyuria"
+            },
+            {
+                "Navn": "Vomiting"
+            },
+            {
+                "Navn": "Nausea"
+            },
+            {
+                "Navn": "Pain abdominal"
+            },
+            {
+                "Navn": "Milky"
+            },
+            {
+                "Navn": "Feeling strange"
+            },
+            {
+                "Navn": "Gurgle"
+            },
+            {
+                "Navn": "Nervousness"
+            },
+            {
+                "Navn": "Abdominal tenderness"
+            },
+            {
+                "Navn": "Regurgitates after swallowing"
+            },
+            {
+                "Navn": "Vision blurred"
+            },
+            {
+                "Navn": "Urinary hesitation"
+            },
+            {
+                "Navn": "Diarrhea"
+            },
+            {
+                "Navn": "Seizure"
+            },
+            {
+                "Navn": "Aura"
+            }
+        ]
+    },
+    {
+        "Navn": "Tonic-clonic epilepsy",
+        "Symptomer": [
+            {
+                "Navn": "Drowsiness"
+            },
+            {
+                "Navn": "Lip smacking"
+            },
+            {
+                "Navn": "Myoclonus"
+            },
+            {
+                "Navn": "Tremor"
+            },
+            {
+                "Navn": "Phonophobia"
+            },
+            {
+                "Navn": "Rolling of eyes"
+            },
+            {
+                "Navn": "Sleepy"
+            },
+            {
+                "Navn": "Hirsutism"
+            },
+            {
+                "Navn": "Moody"
+            },
+            {
+                "Navn": "Muscle twitch"
+            },
+            {
+                "Navn": "Unresponsiveness"
+            },
+            {
+                "Navn": "Headache"
+            },
+            {
+                "Navn": "Ambidexterity"
+            },
+            {
+                "Navn": "Absences finding"
+            },
+            {
+                "Navn": "Spasm"
+            },
+            {
+                "Navn": "Decreased body weight"
+            },
+            {
+                "Navn": "Tumor cell invasion"
+            }
+        ]
+    },
+    {
+        "Navn": "Malignant neoplasms",
+        "Symptomer": [
+            {
+                "Navn": "Pulsus paradoxus"
+            },
+            {
+                "Navn": "Gravida 10"
+            },
+            {
+                "Navn": "Mass of body structure"
+            },
+            {
+                "Navn": "Lesion"
+            },
+            {
+                "Navn": "Heartburn"
+            },
+            {
+                "Navn": "Night sweat"
+            },
+            {
+                "Navn": "Thicken"
+            },
+            {
+                "Navn": "Chill"
+            },
+            {
+                "Navn": "Decreased translucency"
+            },
+            {
+                "Navn": "Pain abdominal"
+            },
+            {
+                "Navn": "Dullness"
+            },
+            {
+                "Navn": "Food intolerance"
+            },
+            {
+                "Navn": "Distress respiratory"
+            },
+            {
+                "Navn": "Hypotension"
+            }
+        ]
+    },
+    {
+        "Navn": "Respiratory failure",
+        "Symptomer": [
+            {
+                "Navn": "Hemiplegia"
+            },
+            {
+                "Navn": "Snore"
+            },
+            {
+                "Navn": "Unresponsiveness"
+            },
+            {
+                "Navn": "Productive cough"
+            },
+            {
+                "Navn": "Dyspnea"
+            },
+            {
+                "Navn": "Tachypnea"
+            },
+            {
+                "Navn": "Hyperkalemia"
+            },
+            {
+                "Navn": "Hypokinesia"
+            },
+            {
+                "Navn": "Sinus rhythm"
+            },
+            {
+                "Navn": "General unsteadiness"
+            },
+            {
+                "Navn": "Bruit"
+            },
+            {
+                "Navn": "Consciousness clear"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Lesion"
+            },
+            {
+                "Navn": "Redness"
+            }
+        ]
+    },
+    {
+        "Navn": "Melanoma",
+        "Symptomer": [
+            {
+                "Navn": "Mass of body structure"
+            },
+            {
+                "Navn": "Paraparesis"
+            },
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Gravida 0"
+            },
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Pruritus"
+            },
+            {
+                "Navn": "Mass in breast"
+            },
+            {
+                "Navn": "Vomiting"
+            },
+            {
+                "Navn": "Diarrhea"
+            }
+        ]
+    },
+    {
+        "Navn": "Gastroenteritis",
+        "Symptomer": [
+            {
+                "Navn": "Pain abdominal"
+            },
+            {
+                "Navn": "Breath-holding spell"
+            },
+            {
+                "Navn": "Nausea"
+            },
+            {
+                "Navn": "Decreased body weight"
+            },
+            {
+                "Navn": "Sore to touch"
+            },
+            {
+                "Navn": "Scleral icterus"
+            },
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Myalgia"
+            },
+            {
+                "Navn": "Hyponatremia"
+            },
+            {
+                "Navn": "Retch"
+            },
+            {
+                "Navn": "Mass of body structure"
+            },
+            {
+                "Navn": "Decreased body weight"
+            }
+        ]
+    },
+    {
+        "Navn": "Malignant neoplasm of lung",
+        "Symptomer": [
+            {
+                "Navn": "Lesion"
+            },
+            {
+                "Navn": "Cough"
+            },
+            {
+                "Navn": "Lung nodule"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Haemoptysis"
+            },
+            {
+                "Navn": "Debilitation"
+            },
+            {
+                "Navn": "Gurgle"
+            },
+            {
+                "Navn": "Ache"
+            },
+            {
+                "Navn": "Rale"
+            },
+            {
+                "Navn": "Night sweat"
+            },
+            {
+                "Navn": "Decreased translucency"
+            },
+            {
+                "Navn": "Asthenia"
+            },
+            {
+                "Navn": "Metastatic lesion"
+            },
+            {
+                "Navn": "Agitation"
+            },
+            {
+                "Navn": "Irritable mood"
+            }
+        ]
+    },
+    {
+        "Navn": "Manic disorder",
+        "Symptomer": [
+            {
+                "Navn": "Energy increased"
+            },
+            {
+                "Navn": "Suicidal"
+            },
+            {
+                "Navn": "Hypersomnia"
+            },
+            {
+                "Navn": "Feeling suicidal"
+            },
+            {
+                "Navn": "Blanch"
+            },
+            {
+                "Navn": "Hallucinations auditory"
+            },
+            {
+                "Navn": "Hallucinations visual"
+            },
+            {
+                "Navn": "Elation"
+            },
+            {
+                "Navn": "Verbal auditory hallucinations"
+            },
+            {
+                "Navn": "Feeling hopeless"
+            },
+            {
+                "Navn": "Difficulty"
+            },
+            {
+                "Navn": "Decompensation"
+            },
+            {
+                "Navn": "Verbally abusive behavior"
+            },
+            {
+                "Navn": "Suicidal"
+            },
+            {
+                "Navn": "Feeling suicidal"
+            }
+        ]
+    },
+    {
+        "Navn": "Personality disorder",
+        "Symptomer": [
+            {
+                "Navn": "Nightmare"
+            },
+            {
+                "Navn": "Feeling hopeless"
+            },
+            {
+                "Navn": "Transsexual"
+            },
+            {
+                "Navn": "Hallucinations auditory"
+            },
+            {
+                "Navn": "Irritable mood"
+            },
+            {
+                "Navn": "Sleeplessness"
+            },
+            {
+                "Navn": "Agitation"
+            },
+            {
+                "Navn": "Weepiness"
+            },
+            {
+                "Navn": "Mood depressed"
+            },
+            {
+                "Navn": "Scratch marks"
+            },
+            {
+                "Navn": "Nausea and vomiting"
+            },
+            {
+                "Navn": "Extreme exhaustion"
+            },
+            {
+                "Navn": "Side pain"
+            },
+            {
+                "Navn": "Worry"
+            },
+            {
+                "Navn": "Enuresis"
+            },
+            {
+                "Navn": "Homelessness"
+            },
+            {
+                "Navn": "Nervousness"
+            },
+            {
+                "Navn": "Ascites"
+            },
+            {
+                "Navn": "Pruritus"
+            }
+        ]
+    },
+    {
+        "Navn": "Primary carcinoma of the liver cells",
+        "Symptomer": [
+            {
+                "Navn": "Mass of body structure"
+            },
+            {
+                "Navn": "Splenomegaly"
+            },
+            {
+                "Navn": "Lesion"
+            },
+            {
+                "Navn": "Paresis"
+            },
+            {
+                "Navn": "Tumor cell invasion"
+            },
+            {
+                "Navn": "Room spinning"
+            },
+            {
+                "Navn": "Haemorrhage"
+            },
+            {
+                "Navn": "Thicken"
+            },
+            {
+                "Navn": "Indifferent mood"
+            },
+            {
+                "Navn": "Cachexia"
+            },
+            {
+                "Navn": "Hypothermia, natural"
+            },
+            {
+                "Navn": "Pain abdominal"
+            },
+            {
+                "Navn": "Hepatomegaly"
+            },
+            {
+                "Navn": "Hematocrit decreased"
+            },
+            {
+                "Navn": "Stupor"
+            },
+            {
+                "Navn": "Decreased body weight"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Cough"
+            }
+        ]
+    },
+    {
+        "Navn": "Emphysema pulmonary",
+        "Symptomer": [
+            {
+                "Navn": "Behavior showing increased motor activity"
+            },
+            {
+                "Navn": "Scar tissue"
+            },
+            {
+                "Navn": "Dyspnea on exertion"
+            },
+            {
+                "Navn": "Coordination abnormal"
+            },
+            {
+                "Navn": "Myalgia"
+            },
+            {
+                "Navn": "Hypercapnia"
+            },
+            {
+                "Navn": "Clammy skin"
+            },
+            {
+                "Navn": "Has religious belief"
+            },
+            {
+                "Navn": "Room spinning"
+            },
+            {
+                "Navn": "Moan"
+            },
+            {
+                "Navn": "Night sweat"
+            },
+            {
+                "Navn": "Cachexia"
+            },
+            {
+                "Navn": "Symptom aggravating factors"
+            },
+            {
+                "Navn": "Dyspnea"
+            },
+            {
+                "Navn": "Rale"
+            },
+            {
+                "Navn": "Flushing"
+            },
+            {
+                "Navn": "Painful swallowing"
+            },
+            {
+                "Navn": "Arthralgia"
+            },
+            {
+                "Navn": "Choke"
+            },
+            {
+                "Navn": "Tenesmus"
+            },
+            {
+                "Navn": "Constipation"
+            }
+        ]
+    },
+    {
+        "Navn": "Hemorrhoids",
+        "Symptomer": [
+            {
+                "Navn": "Haemorrhage"
+            },
+            {
+                "Navn": "Bowel sounds decreased"
+            },
+            {
+                "Navn": "Decreased stool caliber"
+            },
+            {
+                "Navn": "Nausea and vomiting"
+            },
+            {
+                "Navn": "Hunger"
+            },
+            {
+                "Navn": "Diarrhea"
+            },
+            {
+                "Navn": "Dizziness"
+            },
+            {
+                "Navn": "Hyponatremia"
+            },
+            {
+                "Navn": "Clonus"
+            },
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Achalasia"
+            },
+            {
+                "Navn": "Burning sensation"
+            },
+            {
+                "Navn": "Guaiac positive"
+            },
+            {
+                "Navn": "Numbness of hand"
+            },
+            {
+                "Navn": "Wheezing"
+            },
+            {
+                "Navn": "Cough"
+            }
+        ]
+    },
+    {
+        "Navn": "Spasm bronchial",
+        "Symptomer": [
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Scar tissue"
+            },
+            {
+                "Navn": "Apyrexial"
+            },
+            {
+                "Navn": "No known drug allergies"
+            },
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Productive cough"
+            },
+            {
+                "Navn": "Throat sore"
+            },
+            {
+                "Navn": "Dyspnea"
+            },
+            {
+                "Navn": "Chest tightness"
+            },
+            {
+                "Navn": "Hypoxemia"
+            },
+            {
+                "Navn": "Tachypnea"
+            },
+            {
+                "Navn": "Sensory discomfort"
+            },
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Vomiting"
+            },
+            {
+                "Navn": "Rhonchus"
+            },
+            {
+                "Navn": "Hemiplegia"
+            },
+            {
+                "Navn": "Fremitus"
+            }
+        ]
+    },
+    {
+        "Navn": "Aphasia",
+        "Symptomer": [
+            {
+                "Navn": "Clonus"
+            },
+            {
+                "Navn": "Egophony"
+            },
+            {
+                "Navn": "Facial paresis"
+            },
+            {
+                "Navn": "Aphagia"
+            },
+            {
+                "Navn": "Muscle twitch"
+            },
+            {
+                "Navn": "Paralyse"
+            },
+            {
+                "Navn": "Low back pain"
+            },
+            {
+                "Navn": "Charleyhorse"
+            }
+        ]
+    },
+    {
+        "Navn": "Obesity morbid",
+        "Symptomer": [
+            {
+                "Navn": "Out of breath"
+            },
+            {
+                "Navn": "Sedentary"
+            },
+            {
+                "Navn": "Angina pectoris"
+            },
+            {
+                "Navn": "Cough"
+            },
+            {
+                "Navn": "Unhappy"
+            },
+            {
+                "Navn": "Labored breathing"
+            },
+            {
+                "Navn": "Hypothermia, natural"
+            },
+            {
+                "Navn": "Dyspnea"
+            },
+            {
+                "Navn": "Hematocrit decreased"
+            },
+            {
+                "Navn": "Wheezing"
+            },
+            {
+                "Navn": "Hypoxemia"
+            },
+            {
+                "Navn": "Renal angle tenderness"
+            },
+            {
+                "Navn": "Feels hot/feverish"
+            }
+        ]
+    },
+    {
+        "Navn": "Pyelonephritis",
+        "Symptomer": [
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Urgency of micturition"
+            },
+            {
+                "Navn": "Hematuria"
+            },
+            {
+                "Navn": "Vomiting"
+            },
+            {
+                "Navn": "Chill"
+            },
+            {
+                "Navn": "Diarrhea"
+            },
+            {
+                "Navn": "Nausea"
+            },
+            {
+                "Navn": "Pain abdominal"
+            },
+            {
+                "Navn": "Myalgia"
+            },
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Chill"
+            }
+        ]
+    },
+    {
+        "Navn": "Endocarditis",
+        "Symptomer": [
+            {
+                "Navn": "Pleuritic pain"
+            },
+            {
+                "Navn": "Thicken"
+            },
+            {
+                "Navn": "Myalgia"
+            },
+            {
+                "Navn": "Apyrexial"
+            },
+            {
+                "Navn": "Night sweat"
+            },
+            {
+                "Navn": "Flare"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Orthopnea"
+            },
+            {
+                "Navn": "Abscess bacterial"
+            },
+            {
+                "Navn": "Hypotension"
+            },
+            {
+                "Navn": "Cough"
+            },
+            {
+                "Navn": "Metastatic lesion"
+            },
+            {
+                "Navn": "Breath sounds decreased"
+            },
+            {
+                "Navn": "Decreased body weight"
+            },
+            {
+                "Navn": "Pulsus paradoxus"
+            },
+            {
+                "Navn": "Hypokinesia"
+            }
+        ]
+    },
+    {
+        "Navn": "Effusion pericardial",
+        "Symptomer": [
+            {
+                "Navn": "Pericardial friction rub"
+            },
+            {
+                "Navn": "Dyspnea"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Hemodynamically stable"
+            },
+            {
+                "Navn": "Cardiomegaly"
+            },
+            {
+                "Navn": "Hypotension"
+            },
+            {
+                "Navn": "Sputum purulent"
+            },
+            {
+                "Navn": "Facial paresis"
+            },
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Oliguria"
+            },
+            {
+                "Navn": "Blackout"
+            },
+            {
+                "Navn": "Intoxication"
+            }
+        ]
+    },
+    {
+        "Navn": "Chronic alcoholic intoxication",
+        "Symptomer": [
+            {
+                "Navn": "Tremor"
+            },
+            {
+                "Navn": "Hallucinations auditory"
+            },
+            {
+                "Navn": "Suicidal"
+            },
+            {
+                "Navn": "Hoard"
+            },
+            {
+                "Navn": "Irritable mood"
+            },
+            {
+                "Navn": "Feeling hopeless"
+            },
+            {
+                "Navn": "Feeling suicidal"
+            },
+            {
+                "Navn": "Neologism"
+            },
+            {
+                "Navn": "Seizure"
+            },
+            {
+                "Navn": "Homelessness"
+            },
+            {
+                "Navn": "Sleeplessness"
+            },
+            {
+                "Navn": "Unconscious state"
+            },
+            {
+                "Navn": "Panic"
+            },
+            {
+                "Navn": "Breath sounds decreased"
+            },
+            {
+                "Navn": "Shortness of breath"
+            }
+        ]
+    },
+    {
+        "Navn": "Pneumothorax",
+        "Symptomer": [
+            {
+                "Navn": "Dyspnea"
+            },
+            {
+                "Navn": "Cardiovascular finding"
+            },
+            {
+                "Navn": "Haemoptysis"
+            },
+            {
+                "Navn": "Cough"
+            },
+            {
+                "Navn": "Hypercapnia"
+            },
+            {
+                "Navn": "Soft tissue swelling"
+            },
+            {
+                "Navn": "Prostatism"
+            },
+            {
+                "Navn": "Agitation"
+            }
+        ]
+    },
+    {
+        "Navn": "Delirium",
+        "Symptomer": [
+            {
+                "Navn": "Unsteady gait"
+            },
+            {
+                "Navn": "Withdraw"
+            },
+            {
+                "Navn": "Hyponatremia"
+            },
+            {
+                "Navn": "Verbally abusive behavior"
+            },
+            {
+                "Navn": "Feeling suicidal"
+            },
+            {
+                "Navn": "Unresponsiveness"
+            },
+            {
+                "Navn": "Worry"
+            },
+            {
+                "Navn": "Drowsiness"
+            },
+            {
+                "Navn": "Hallucinations auditory"
+            },
+            {
+                "Navn": "Suicidal"
+            },
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Diarrhea"
+            }
+        ]
+    },
+    {
+        "Navn": "Neutropenia",
+        "Symptomer": [
+            {
+                "Navn": "Transaminitis"
+            },
+            {
+                "Navn": "Splenomegaly"
+            },
+            {
+                "Navn": "Night sweat"
+            },
+            {
+                "Navn": "Apyrexial"
+            },
+            {
+                "Navn": "Lesion"
+            },
+            {
+                "Navn": "Snuffle"
+            },
+            {
+                "Navn": "Chill"
+            },
+            {
+                "Navn": "Cough"
+            },
+            {
+                "Navn": "Monoclonal"
+            },
+            {
+                "Navn": "Hypocalcemia result"
+            },
+            {
+                "Navn": "Oliguria"
+            },
+            {
+                "Navn": "Rhd positive"
+            },
+            {
+                "Navn": "Distress respiratory"
+            }
+        ]
+    },
+    {
+        "Navn": "Hyperbilirubinemia",
+        "Symptomer": [
+            {
+                "Navn": "Cyanosis"
+            },
+            {
+                "Navn": "Tachypnea"
+            },
+            {
+                "Navn": "Para 1"
+            },
+            {
+                "Navn": "Bradycardia"
+            },
+            {
+                "Navn": "Breech presentation"
+            },
+            {
+                "Navn": "Cushingoid facies"
+            },
+            {
+                "Navn": "Cough"
+            },
+            {
+                "Navn": "Myalgia"
+            }
+        ]
+    },
+    {
+        "Navn": "Influenza",
+        "Symptomer": [
+            {
+                "Navn": "Uncoordination"
+            },
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Pleuritic pain"
+            },
+            {
+                "Navn": "Snuffle"
+            },
+            {
+                "Navn": "Throat sore"
+            },
+            {
+                "Navn": "Malaise"
+            },
+            {
+                "Navn": "Debilitation"
+            },
+            {
+                "Navn": "Symptom aggravating factors"
+            },
+            {
+                "Navn": "Chill"
+            },
+            {
+                "Navn": "Scleral icterus"
+            },
+            {
+                "Navn": "Nasal flaring"
+            },
+            {
+                "Navn": "Dysuria"
+            },
+            {
+                "Navn": "Lip smacking"
+            },
+            {
+                "Navn": "Headache"
+            },
+            {
+                "Navn": "Sneeze"
+            },
+            {
+                "Navn": "Snore"
+            },
+            {
+                "Navn": "Green sputum"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Distress respiratory"
+            },
+            {
+                "Navn": "Blackout"
+            },
+            {
+                "Navn": "Extreme exhaustion"
+            }
+        ]
+    },
+    {
+        "Navn": "Dependence",
+        "Symptomer": [
+            {
+                "Navn": "Intoxication"
+            },
+            {
+                "Navn": "Tremor"
+            },
+            {
+                "Navn": "Agitation"
+            },
+            {
+                "Navn": "Suicidal"
+            },
+            {
+                "Navn": "Homelessness"
+            },
+            {
+                "Navn": "Prostatism"
+            },
+            {
+                "Navn": "Lethargy"
+            },
+            {
+                "Navn": "Seizure"
+            },
+            {
+                "Navn": "Muscle twitch"
+            },
+            {
+                "Navn": "Stuffy nose"
+            },
+            {
+                "Navn": "Feeling hopeless"
+            },
+            {
+                "Navn": "Heavy legs"
+            },
+            {
+                "Navn": "Rale"
+            }
+        ]
+    },
+    {
+        "Navn": "Thrombus",
+        "Symptomer": [
+            {
+                "Navn": "Hypokinesia"
+            },
+            {
+                "Navn": "Anorexia"
+            },
+            {
+                "Navn": "Hypertonicity"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Hypoalbuminemia"
+            },
+            {
+                "Navn": "Pruritus"
+            },
+            {
+                "Navn": "Sore to touch"
+            },
+            {
+                "Navn": "Hemodynamically stable"
+            },
+            {
+                "Navn": "Facial paresis"
+            },
+            {
+                "Navn": "Vomiting"
+            },
+            {
+                "Navn": "Stool color yellow"
+            }
+        ]
+    },
+    {
+        "Navn": "Cholecystitis",
+        "Symptomer": [
+            {
+                "Navn": "Moan"
+            },
+            {
+                "Navn": "Nausea"
+            },
+            {
+                "Navn": "Pain abdominal"
+            },
+            {
+                "Navn": "Murphy's sign"
+            },
+            {
+                "Navn": "Flatulence"
+            },
+            {
+                "Navn": "Colic abdominal"
+            },
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Ascites"
+            },
+            {
+                "Navn": "Diarrhea"
+            },
+            {
+                "Navn": "Qt interval prolonged"
+            },
+            {
+                "Navn": "Cardiovascular finding"
+            },
+            {
+                "Navn": "Groggy"
+            },
+            {
+                "Navn": "Sinus rhythm"
+            },
+            {
+                "Navn": "Gasping for breath"
+            },
+            {
+                "Navn": "Constipation"
+            },
+            {
+                "Navn": "Feces in rectum"
+            },
+            {
+                "Navn": "Abnormally hard consistency"
+            }
+        ]
+    },
+    {
+        "Navn": "Hernia hiatal",
+        "Symptomer": [
+            {
+                "Navn": "Pain abdominal"
+            },
+            {
+                "Navn": "Fatigability"
+            },
+            {
+                "Navn": "Prodrome"
+            },
+            {
+                "Navn": "Vomiting"
+            },
+            {
+                "Navn": "Nausea"
+            },
+            {
+                "Navn": "Myalgia"
+            },
+            {
+                "Navn": "Hyponatremia"
+            },
+            {
+                "Navn": "Sore to touch"
+            },
+            {
+                "Navn": "General discomfort"
+            },
+            {
+                "Navn": "Dyspnea on exertion"
+            },
+            {
+                "Navn": "Asterixis"
+            },
+            {
+                "Navn": "Guaiac positive"
+            },
+            {
+                "Navn": "Numbness of hand"
+            },
+            {
+                "Navn": "Headache"
+            },
+            {
+                "Navn": "Photophobia"
+            }
+        ]
+    },
+    {
+        "Navn": "Migraine disorders",
+        "Symptomer": [
+            {
+                "Navn": "Ambidexterity"
+            },
+            {
+                "Navn": "Vomiting"
+            },
+            {
+                "Navn": "Dizziness"
+            },
+            {
+                "Navn": "Numbness"
+            },
+            {
+                "Navn": "Nausea"
+            },
+            {
+                "Navn": "Fever"
+            },
+            {
+                "Navn": "Splenomegaly"
+            }
+        ]
+    },
+    {
+        "Navn": "Pancytopenia",
+        "Symptomer": [
+            {
+                "Navn": "Hypoproteinemia"
+            },
+            {
+                "Navn": "Fatigue"
+            },
+            {
+                "Navn": "Haemorrhage"
+            },
+            {
+                "Navn": "Fatigability"
+            },
+            {
+                "Navn": "Cushingoid facies"
+            },
+            {
+                "Navn": "Stool color yellow"
+            },
+            {
+                "Navn": "Colic abdominal"
+            }
+        ]
+    },
+    {
+        "Navn": "Cholelithiasis",
+        "Symptomer": [
+            {
+                "Navn": "Vomiting"
+            },
+            {
+                "Navn": "Nausea"
+            },
+            {
+                "Navn": "Pain abdominal"
+            },
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Cushingoid facies"
+            },
+            {
+                "Navn": "Ascites"
+            },
+            {
+                "Navn": "Thicken"
+            },
+            {
+                "Navn": "Sore to touch"
+            },
+            {
+                "Navn": "Diarrhea"
+            },
+            {
+                "Navn": "Apyrexial"
+            },
+            {
+                "Navn": "Palpitation"
+            }
+        ]
+    },
+    {
+        "Navn": "Tachycardia sinus",
+        "Symptomer": [
+            {
+                "Navn": "Left atrial hypertrophy"
+            },
+            {
+                "Navn": "Sweat"
+            },
+            {
+                "Navn": "Alcohol binge episode"
+            },
+            {
+                "Navn": "Pressure chest"
+            },
+            {
+                "Navn": "Scar tissue"
+            },
+            {
+                "Navn": "Cardiovascular finding"
+            },
+            {
+                "Navn": "Orthostasis"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "T wave inverted"
+            },
+            {
+                "Navn": "Vomiting"
+            },
+            {
+                "Navn": "Pain abdominal"
+            }
+        ]
+    },
+    {
+        "Navn": "Ileus",
+        "Symptomer": [
+            {
+                "Navn": "Abscess bacterial"
+            },
+            {
+                "Navn": "Abdomen acute"
+            },
+            {
+                "Navn": "Air fluid level"
+            },
+            {
+                "Navn": "Catching breath"
+            },
+            {
+                "Navn": "Abdominal tenderness"
+            },
+            {
+                "Navn": "Nausea"
+            },
+            {
+                "Navn": "Sore to touch"
+            },
+            {
+                "Navn": "Flatulence"
+            },
+            {
+                "Navn": "Diarrhea"
+            },
+            {
+                "Navn": "Mass of body structure"
+            },
+            {
+                "Navn": "Apyrexial"
+            },
+            {
+                "Navn": "Constipation"
+            },
+            {
+                "Navn": "Thicken"
+            },
+            {
+                "Navn": "Gravida 0"
+            },
+            {
+                "Navn": "Pain abdominal"
+            }
+        ]
+    },
+    {
+        "Navn": "Adhesion",
+        "Symptomer": [
+            {
+                "Navn": "Flatulence"
+            },
+            {
+                "Navn": "Pain"
+            },
+            {
+                "Navn": "Large-for-dates fetus"
+            },
+            {
+                "Navn": "Para 1"
+            },
+            {
+                "Navn": "Vomiting"
+            },
+            {
+                "Navn": "Lung nodule"
+            },
+            {
+                "Navn": "Breech presentation"
+            },
+            {
+                "Navn": "Shortness of breath"
+            },
+            {
+                "Navn": "Decreased body weight"
+            },
+            {
+                "Navn": "Immobile"
+            },
+            {
+                "Navn": "Unsteady gait"
+            },
+            {
+                "Navn": "Hallucinations visual"
+            },
+            {
+                "Navn": "Feeling suicidal"
+            }
+        ]
+    },
+    {
+        "Navn": "Delusion",
+        "Symptomer": [
+            {
+                "Navn": "Loose associations"
+            },
+            {
+                "Navn": "Giddy mood"
+            },
+            {
+                "Navn": "Feeling hopeless"
+            },
+            {
+                "Navn": "Agitation"
+            },
+            {
+                "Navn": "Hallucinations auditory"
+            },
+            {
+                "Navn": "Irritable mood"
+            },
+            {
+                "Navn": "Sleeplessness"
+            },
+            {
+                "Navn": "Neologism"
+            },
+            {
+                "Navn": "Homicidal thoughts"
+            },
+            {
+                "Navn": "Disturbed family"
+            },
+            {
+                "Navn": "Worry"
+            },
+            {
+                "Navn": "Decompensation"
+            },
+            {
+                "Navn": "Verbally abusive behavior"
+            },
+            {
+                "Navn": "Catatonia"
+            },
+            {
+                "Navn": "Suicidal"
+            },
+            {
+                "Navn": "Terrify"
+            },
+            {
+                "Navn": "Blackout"
+            },
+            {
+                "Navn": "Weepiness"
+            },
+            {
+                "Navn": "Impaired cognition"
+            },
+            {
+                "Navn": "Irritable mood"
+            },
+            {
+                "Navn": "Agitation"
+            }
+        ]
+    },
+    {
+        "Navn": "Affect labile",
+        "Symptomer": [
+            {
+                "Navn": "Extreme exhaustion"
+            },
+            {
+                "Navn": "Sleeplessness"
+            },
+            {
+                "Navn": "Enuresis"
+            },
+            {
+                "Navn": "Patient non compliance"
+            },
+            {
+                "Navn": "Feeling hopeless"
+            },
+            {
+                "Navn": "Hallucinations visual"
+            },
+            {
+                "Navn": "Bedridden"
+            },
+            {
+                "Navn": "Prostatism"
+            }
+        ]
+    },
+    {
+        "Navn": "Decubitus ulcer",
+        "Symptomer": [
+            {
+                "Navn": "Systolic murmur"
+            },
+            {
+                "Navn": "Frail"
+            },
+            {
+                "Navn": "Fever"
+            }
+        ]
+    }
+]
