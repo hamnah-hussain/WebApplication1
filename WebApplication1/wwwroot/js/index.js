@@ -1,4 +1,4 @@
-﻿let valgte
+﻿let valgte = ""
 
 $(function() {
     hentAlleKunder();
@@ -11,22 +11,29 @@ function hentAlleKunder() {
 }
 
 function formaterKunder(diagnoser) {
-    let ut = "";
-    const symptomer = new Set();
+    let ut = "<option disabled>Velg en</option>";
+    const symptomSet = new Set();
     for (let diagnose of diagnoser) {
         for (let symptom of diagnose.symptomer) {
-            symptomer.add(symptom.navn);
+            symptomSet.add(symptom.navn);
         }
     }
+    const symptomer = Array.from(symptomSet).sort();
     for (let s of symptomer) {
-        ut += "<a value="+s+">" + s + "</a>";
+        ut += "<option value='"+s+"'>" + s + "</option>";
     }
     $("#symptomer").html(ut);
 }
 
-function leggTilSymptom(obj) {
-    $("#valgte").html(valgte);
-}
+$(function () {
+    $("#symptomer").change(function () {
+        if (this.value) {
+            valgte += this.value + "<br>";
+            $("#valgte").html(valgte);
+        }
+    });
+
+});
 
 function slettKunde(id) {
     const url = "Kunde/Slett?id=" + id;
@@ -41,9 +48,13 @@ function slettKunde(id) {
     });
 }
 
+function finnDiagnose() {
 
-/* When the user clicks on the button,
-toggle between hiding and showing the dropdown content */
+}
+
+/*
+When the user clicks on the button,
+toggle between hiding and showing the dropdown content
 function myFunction() {
     document.getElementById("myDropdown").classList.toggle("show");
 }
@@ -62,4 +73,5 @@ function filterFunction() {
             a[i].style.display = "none";
         }
     }
-} 
+}
+*/
