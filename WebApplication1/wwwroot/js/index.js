@@ -1,4 +1,5 @@
-﻿
+﻿let valgte
+
 $(function() {
     hentAlleKunder();
 });
@@ -9,21 +10,22 @@ function hentAlleKunder() {
     });
 }
 
-function formaterKunder(kunder) {
-    let ut = "<table class='table table-striped'>" +
-        "<tr>" +
-        "<th>Navn</th><th>Adresse</th><th></th><th></th>" +
-        "</tr>";
-    for (let kunde of kunder) {
-        ut += "<tr>" +
-            "<td>" + kunde.navn + "</td>" +
-            "<td>" + kunde.adresse + "</td>" +
-            "<td> <a class='btn btn-primary' href='endre.html?id=" + kunde.id + "'>Endre</a></td>" +
-            "<td> <button class='btn btn-danger' onclick='slettKunde(" + kunde.id + ")'>Slett</button></td>" +
-            "</tr>";
+function formaterKunder(diagnoser) {
+    let ut = "";
+    const symptomer = new Set();
+    for (let diagnose of diagnoser) {
+        for (let symptom of diagnose.symptomer) {
+            symptomer.add(symptom.navn);
+        }
     }
-    ut += "</table>";
-    $("#kundene").html(ut);
+    for (let s of symptomer) {
+        ut += "<a value="+s+">" + s + "</a>";
+    }
+    $("#symptomer").html(ut);
+}
+
+function leggTilSymptom(obj) {
+    $("#valgte").html(valgte);
 }
 
 function slettKunde(id) {
@@ -37,4 +39,27 @@ function slettKunde(id) {
         }
 
     });
-};
+}
+
+
+/* When the user clicks on the button,
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+
+function filterFunction() {
+    var input, filter, ul, li, a, i;
+    input = document.getElementById("myInput");
+    filter = input.value.toUpperCase();
+    div = document.getElementById("myDropdown");
+    a = div.getElementsByTagName("a");
+    for (i = 0; i < a.length; i++) {
+        txtValue = a[i].textContent || a[i].innerText;
+        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+            a[i].style.display = "";
+        } else {
+            a[i].style.display = "none";
+        }
+    }
+} 

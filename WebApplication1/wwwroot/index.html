@@ -6,12 +6,19 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
     <script src="js/index.js"></script>
+    <link rel="stylesheet" href="css/index.css" />
 </head>
 <body>
-    <div class="container">
-        <h1>Her er kundene:</h1>
-        <div id="kundene"></div>
-        <a href="Symptom.html" class="btn btn-primary">Next</a>
+    <div class="dropdown">
+        <button onclick="myFunction()" class="dropbtn">Dropdown</button>
+        <div id="myDropdown" class="dropdown-content">
+            <input type="text" placeholder="Search.." id="myInput" onkeyup="filterFunction()">
+            <div id="symptomer" onclick="leggTilSymptom()">
+            </div>
+        </div>
+        <div id="valgte">
+
+        </div>
     </div>
 </body>
 </html>
