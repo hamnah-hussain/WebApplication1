@@ -1,4 +1,5 @@
 ﻿let valgte = ""
+let alleDiagnoser = new Array;
 
 $(function() {
     hentAlleKunder();
@@ -18,6 +19,7 @@ function formaterKunder(diagnoser) {
             symptomSet.add(symptom.navn);
         }
     }
+    alleDiagnoser = diagnoser;
     const symptomer = Array.from(symptomSet).sort();
     for (let s of symptomer) {
         ut += "<option value='"+s+"'>" + s + "</option>";
@@ -49,7 +51,20 @@ function slettKunde(id) {
 }
 
 function finnDiagnose() {
-    let symptomsdiagnose = valgte.split("<br>");
+    var valgteSymptomer = new Array;
+    valgteSymptomer = valgte.split("<br>");
+    let hoyestProsent = 0.0;
+    let finale = "";
+
+    for (diagnose of alleDiagnoser) {
+        let prosent = diagnose.symptomer.filter(value => valgteSymptomer.includes(value.navn)).length / diagnose.symptomer.length;
+        if (prosent > hoyestProsent) {
+            hoyestProsent = prosent;
+            finale = diagnose.navn;
+        }
+    }
+
+    $("#resultat").html(finale);
 }
 
 /*

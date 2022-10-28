@@ -10,11 +10,12 @@
 </head>
 <body>
     <br>
-    <select id="symptomer">
-        <option disabled>Velg en</option>
-    </select>
+    <select id="symptomer" req></select>
     <div id="valgte">
     </div>
-    <button onclick="finnDiagnose()" type="button" class="btn btn-primary">Sjekk diagnose</button>
+    <div>
+        <button onclick="finnDiagnose()" type="button" class="btn btn-primary">Get results</button>
+    </div>
+    <div id="resultat"></div>
 </body>
 </html>
