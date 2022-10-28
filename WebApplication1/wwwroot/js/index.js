@@ -49,9 +49,7 @@ function slettKunde(id) {
 }
 
 function finnDiagnose() {
-    var symptomsdiagnose = new Array;
-    var valg = valgte
-    symptomsdiagnose = [valg.split("<br>")];
+    let symptomsdiagnose = valgte.split("<br>");
 }
 
 /*
