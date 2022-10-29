@@ -1,4 +1,4 @@
-﻿let valgte = ""
+﻿let valgte = "";
 let alleDiagnoser = new Array;
 
 $(function() {
@@ -77,6 +77,8 @@ function finnDiagnose() {
     });
 
     $("#resultat").html(finale);
+    $("#valgte").html("");
+    valgte = "";
 }
 
 function visBrukere() {
