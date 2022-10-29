@@ -64,9 +64,11 @@ function finnDiagnose() {
         }
     }
 
+    const urlParams = new URLSearchParams(window.location.search);
+
     const bruker = {
-        alder: "23",
-        gender: "male",
+        alder: urlParams.get("alder"),
+        gender: urlParams.get("kjonn"),
         diagnose: finale
     };
 
@@ -85,26 +87,9 @@ function visBrukere() {
     });
 }
 
-/*
-When the user clicks on the button,
-toggle between hiding and showing the dropdown content
-function myFunction() {
-    document.getElementById("myDropdown").classList.toggle("show");
+function nesteSide() {
+    alder = document.getElementById("ageInput").value;
+    kjonn = document.getElementById("selectGender").value;
+    const url = "symptom.html?alder=" + alder + "&kjonn=" + kjonn;
+    window.location.href = url;
 }
-
-function filterFunction() {
-    var input, filter, ul, li, a, i;
-    input = document.getElementById("myInput");
-    filter = input.value.toUpperCase();
-    div = document.getElementById("myDropdown");
-    a = div.getElementsByTagName("a");
-    for (i = 0; i < a.length; i++) {
-        txtValue = a[i].textContent || a[i].innerText;
-        if (txtValue.toUpperCase().indexOf(filter) > -1) {
-            a[i].style.display = "";
-        } else {
-            a[i].style.display = "none";
-        }
-    }
-}
-*/

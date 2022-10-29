@@ -3,7 +3,7 @@
 
     const id = window.location.search.substring(1);
     const url = "Bruker/HentEn?" + id;
-    $.get(url, function (kunde) {
+    $.get(url, function (bruker) {
         $("#id").val(bruker.id); // må ha med id inn skjemaet, hidden i html
         $("#alder").val(bruker.alder);
         $("#gender").val(bruker.gender);
@@ -21,7 +21,7 @@ function endreBruker() {
     };
     $.post("Bruker/Endre", bruker, function (OK) {
         if (OK) {
-            window.location.href = 'brukerliste.html';
+            window.location.href = 'brukere.html';
         }
         else {
             $("#feil").html("Feil i db - prøv igjen senere");

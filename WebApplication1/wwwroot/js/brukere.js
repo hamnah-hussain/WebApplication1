@@ -4,18 +4,19 @@
 
 function hentAlleBrukere() {
     $.get("Bruker/HentAlle", function (brukere) {
-        formaterKunder(brukere);
+        formaterBrukere(brukere);
     });
 }
 
-function formaterKunder(brukere) {
+function formaterBrukere(brukere) {
     let ut = "<table class='table table-striped'>" +
         "<tr>" +
-        "<th>ID</th><th>Alder</th><th>Gender</th><th>Diagnose</th><th></th><th></th>" +
+        //"<th>ID</th><th>Alder</th><th>Gender</th><th>Diagnose</th><th></th><th></th>" +
+        "<th>Alder</th><th>Gender</th><th>Diagnose</th><th></th><th></th>" +
         "</tr>";
     for (let bruker of brukere) {
         ut += "<tr>" +
-            "<td>" + bruker.id + "</td>" +
+            //"<td>" + bruker.id + "</td>" +
             "<td>" + bruker.alder + "</td>" +
             "<td>" + bruker.gender + "</td>" +
             "<td>" + bruker.diagnose + "</td>" +
@@ -28,10 +29,10 @@ function formaterKunder(brukere) {
 }
 
 function slettKunde(id) {
-    const url = "Kunde/Slett?id=" + id;
+    const url = "Bruker/Slett?id=" + id;
     $.get(url, function (OK) {
         if (OK) {
-            window.location.href = 'index.html';
+            window.location.href = 'brukere.html';
         }
         else {
             $("#feil").html("Feil i db - prøv igjen senere");
