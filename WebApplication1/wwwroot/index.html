@@ -2,20 +2,38 @@
 <html>
 <head>
     <meta charset="utf-8" />
-    <title>Test</title>
+    <title></title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
     <script src="js/index.js"></script>
-    
+    <link rel="stylesheet" href="index.css">
+
+
 </head>
 <body>
     <br>
-    <select id="symptomer" req></select>
-    <div id="valgte">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"> H E L S E M E E T </nav>
+    <div className="home" id="home">
+        <h1>Symptom Calculator </h1>
+        <div>
+
+            <label for="gender">Choose Gender</label>
+            <select class="form-control" id="selectGender">
+                <option type="text" placeholder=""></option>
+                <option value="male">Male</option>
+                <option value="female">Female</option>
+                <option value="other">Other</option>
+            </select>
+
+
+            <label for="age">Enter age</label>
+            <input type="text" class="form-control" id="ageInput" placeholder="">
+
+        </div>
+        <div>
+            <a href="symptom.html" class="btn btn-primary">Continue</a>
+        </div>
     </div>
-    <div>
-        <button onclick="finnDiagnose()" type="button" class="btn btn-primary">Get results</button>
-    </div>
-    <div id="resultat"></div>
+
 </body>
 </html>

@@ -51,7 +51,7 @@ function slettKunde(id) {
 }
 
 function finnDiagnose() {
-    var valgteSymptomer = new Array;
+    let valgteSymptomer = new Array;
     valgteSymptomer = valgte.split("<br>");
     let hoyestProsent = 0.0;
     let finale = "";
@@ -64,7 +64,25 @@ function finnDiagnose() {
         }
     }
 
+    const bruker = {
+        alder: "23",
+        gender: "male",
+        diagnose: finale
+    };
+
+    $.post("Bruker/Lagre", bruker, function (OK) {
+
+    });
+
     $("#resultat").html(finale);
+}
+
+function visBrukere() {
+    $.get("Bruker/HentAlle", function (brukere) {
+        for (b of brukere) {
+            console.log(b);
+        }
+    });
 }
 
 /*
