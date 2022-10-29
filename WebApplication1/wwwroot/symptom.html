@@ -6,30 +6,44 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
     <script src="js/index.js"></script>
-    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/navbar.css">
 
+
+
+    <script>$(function () {
+            $("#nav-placeholder").load("/navbar/navbar.html");
+        });</script>
 </head>
 <body>
+    <div id="nav-placeholder">
+
+    </div>
     <br>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light"> H E L S E M E T </nav>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <div id="symp">
+        <br>
+        <div id="symp2">
+            <form class="form-group" action="javascript:finnDiagnose()">
+                <label>Choose the symptoms</label>
+                <select id="symptomer" class="form-control" required>
+                </select>
+                <input type="submit" value="Sjekk diagnose" class="btn btn-primary">
+            </form>
 
-    <label>Choose the symptoms</label>
-    <select id="symptomer" class="form-control">
-        <option disabled>Choose the symptoms</option>
-    </select>
-
-
-    <div id="valgte" class="form-group">
+            <div id="valgte" class="form-group">
+            </div>
+                <br />
+                <a href="brukere.html">Vis Brukere</a>
+                <br />
+                <a class="button" href="index.html">Tilbake til startside</a>
+            <br />
+            <div id="resultat"></div>
+        </div>
     </div>
-    <div>
-        <button class="btn btn-primary" onclick="finnDiagnose()">Sjekk diagnose</button>
-        <br />
-        <a href="brukere.html">Vis Brukere</a>
-        <br />
-        <a class="button" href="index.html">Tilbake til startside</a>
-    </div>
-    <br />
-    <div id="resultat"></div>
-
 </body>
 </html>

@@ -1,0 +1,114 @@
+﻿#home, #symp {
+    margin: auto;
+    text-align: center;
+}
+
+#chooseInfo, #symp2 {
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+}
+
+label, h5 {
+    text-align: left;
+    display: block;
+}
+
+h1 {
+    padding: 7px;
+}
+
+p, #symp p {
+    color: black;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    text-justify: inter-word;
+}
+
+#symp li {
+    letter-spacing: 3px;
+    color: rgb(0,123,255);
+}
+
+input, select, option {
+    width: 100%;
+    padding: 6px 10px;
+    margin: 10px 0;
+    border: 1px solid black;
+    box-sizing: border-box;
+    display: block;
+}
+
+#valgte {
+    color: black;
+}
+
+#container {
+    max-width: 1280px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 99;
+    background-color: var(--dark);
+    padding: 16px 32px;
+    border-bottom: 3px solid var(--dark);
+}
+
+:root {
+    --primary: #0b1995;
+    --light: white;
+    --dark: rgb(0,123,255);
+}
+
+
+.container {
+    max-width: 1280px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 99;
+    background-color: var(--dark);
+    padding: 20px 32px;
+}
+
+.container h1 {
+    color: white;
+    font-size: 28px;
+    font-weight: 900;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+
+
+    .menu a {
+        color: white;
+        margin: 0 16px;
+        font-weight: 600;
+        text-decoration: none;
+        transition: 0.4s;
+        padding: 8px 16px;
+        border-radius: 99px;
+    }
+
+        .menu a.is-active, .menu a:hover {
+            background-color: var(--primary);
+        }

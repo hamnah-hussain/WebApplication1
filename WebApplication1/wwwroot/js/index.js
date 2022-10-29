@@ -12,7 +12,7 @@ function hentAlleKunder() {
 }
 
 function formaterKunder(diagnoser) {
-    let ut = "<option disabled>Velg en</option>";
+    let ut = "<option value='' selected disabled>Velg en</option>";
     const symptomSet = new Set();
     for (let diagnose of diagnoser) {
         for (let symptom of diagnose.symptomer) {
@@ -76,7 +76,7 @@ function finnDiagnose() {
 
     });
 
-    $("#resultat").html(finale);
+    $("#resultat").html("<p class='p_Diag_def'>You got the diagnose: </p>" + "<p class='p_Diag'>"+finale+"</p>");
     $("#valgte").html("");
     valgte = "";
 }
