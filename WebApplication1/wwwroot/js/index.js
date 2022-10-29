@@ -79,6 +79,7 @@ function finnDiagnose() {
     $("#resultat").html("<p class='p_Diag_def'>You got the diagnose: </p>" + "<p class='p_Diag'>"+finale+"</p>");
     $("#valgte").html("");
     valgte = "";
+    document.getElementById("symptomer").selectedIndex = 0;
 }
 
 function visBrukere() {
